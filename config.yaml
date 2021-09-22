@@ -15,19 +15,18 @@ imaging:
   quality: 99
 
 params:
-  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  description: A collection of fumo lore over the years
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  footer: Add your stories on [GitHub](https://github.com/marvinody/fumology)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
-  codePenUser: someUser
   katex: true
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  logoAlt: "An alternative text description of the logo"
+  logoAlt: "Yachie reading a book"
   customCss:
     - css/custom_01.css
     - css/custom_02.css
@@ -40,8 +39,8 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
-      url: /post/
+    - name: Posts
+      url: /posts/
       weight: 2
     - name: Tags
       url: /tags/
