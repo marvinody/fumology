@@ -1,7 +1,7 @@
 ---
 title: "Yuyuko/Youmu Hug Lore"
 date: 2021-09-22T18:11:07-04:00
-draft: true
+draft: false
 tags: [lore, fumology, emotes]
 ---
 
