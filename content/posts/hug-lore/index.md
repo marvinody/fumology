@@ -3,6 +3,10 @@ title: "Yuyuko/Youmu Hug Lore"
 date: 2021-09-22T18:11:07-04:00
 draft: false
 tags: [lore, fumology, emotes]
+summary: "The story of the separation between Yuyuko and Youmu"
+# https://twitter.com/search?q=(from%3Azerokonbu)%20until%3A2019-01-05&src=typed_query&f=live
+# https://twitter.com/search?q=(from%3Azerokonbu2_eng)%20until%3A2019-01-05&src=typed_query&f=live
+# https://twitter.com/search?q=(from%3AYuyuko_Saigyoji)%20until%3A2019-01-05&src=typed_query&f=live
 ---
 
 [@Yuyuko_Saigyoji](https://twitter.com/Yuyuko_Saigyoji) went to Japan (for Comiket?) and brought a Youmu and Yuyuko fumo. After some events they misplaced the Yuyuko and didn't realize until after New Year's and didn't have time to retrace their steps.

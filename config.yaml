@@ -16,7 +16,7 @@ imaging:
 
 params:
   description: A collection of fumo lore over the years
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  homeMetaContent: A collection of fumo lore over the years 
   footer: Add your stories on [GitHub](https://github.com/marvinody/fumology)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
@@ -28,8 +28,8 @@ params:
   moveFooterToHeader: false
   logoAlt: "Yachie reading a book"
   customCss:
-    - css/custom_01.css
-    - css/custom_02.css
+    - css/custom.css
+
   customJs:
     - js/custom_01.js
     - js/custom_02.js
