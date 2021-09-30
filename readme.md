@@ -1,5 +1,5 @@
-# Fumology
-A small blog site dedicated to capturing moments from fumo lore to preserve them in case anything happens.
+# [Fumology](https://fumo.systems/)
+A small blog site dedicated to capturing moments from fumo lore to preserve them for future readers.
 
 ## Contributing
 Add a new folder in `content/posts` and include any images in an images folder. Videos should be linked outside sources. Any iamge should contain a link to the source that you pulled it from if sensible (twitter link for twitter image, discord chat link for discord chat logs, etc.). Add an `index.md` file that tells the story. 
