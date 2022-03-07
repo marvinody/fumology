@@ -1,3 +1,11 @@
 .twitter-tweet {
     margin: auto;
  }
+
+.full.fumote {
+    display: flex;
+}
+
+body: {
+    background-color: grey;
+}

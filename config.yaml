@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://fumo.systems/
 languageCode: en-us
 defaultContentLanguage: en
 title: Fumology
@@ -23,7 +23,7 @@ params:
   katex: true
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: true
+  showThemeSwitcher: false
   defaultDarkTheme: false
   moveFooterToHeader: false
   logoAlt: "Yachie reading a book"
