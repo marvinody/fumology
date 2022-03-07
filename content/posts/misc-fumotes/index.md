@@ -22,7 +22,8 @@ A running joke between Manny & Yume where we nested the "ban" symbol on a Yuugi 
 ## Vibrations
 Starting from a tweet from [@Rapid_Arthopod](https://twitter.com/Rapid_Arthropod), it began a branch of fumotes of shaking fumos violently
 
-{{< tweet user=Rapid_Arthropod id=957787941195063296 >}}
+<!-- {{< tweet user=Rapid_Arthropod id=957787941195063296 >}} -->
+{{< tweet 957787941195063296 >}}
 
 - {{< fullemote name=kokoro_vibrations path="images/vibrations/kokoro_vibrations.gif" >}}
 - {{< fullemote name=marisa_vibrations path="images/vibrations/marisa_vibrations.gif" >}}
