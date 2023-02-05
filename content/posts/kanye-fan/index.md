@@ -81,7 +81,7 @@ I may sidetrack from the initial goal I stated in the opening because I want to 
 
 ---
 
-## Fumo Manifesto
+## Fumanifesto
 
 I'll quote the full excerpts, with the only changes being names.
 
@@ -97,7 +97,7 @@ I will confirm that some of Alice's last messages were close to that.
 
 I believe I know exactly the event that Alice is angry about here, but for the moderator's anonymity, I won't bring up specifics (it was omitted from the background above). The part that members of a server don't see are the inner workings and private messages between us. 
 
-While the moderator may have gone overboard on a reaction, when you have Alice, Bob, and others close to harassing you for trying to moderate the server, an overreaction is all but expected. I'll note that the overreaction was not a ban or a kick or anything permanent to the server residents, but the moderator's language went south. The moderator in question then received an ultimatum by the mod team to refrain from adding 'fuel to a fire' in situations like this. 
+While the moderator may have gone overboard on a reaction, when you have Alice, Bob, and others close to harassing you for trying to moderate the server, an overreaction is all but expected. I'll note that the overreaction was not a ban or a kick or anything permanent to the server residents, but the moderator's language went south. The moderator in question was then in contact with me and told to refrain from adding 'fuel to a fire' in situations like this. 
 
 Should Alice have been informed of this? Absolutely not, it's not his business. But we go back to the narcissism issue of everything being about her and "if the world wrongs her, she'll wrong the world".
 
@@ -196,7 +196,7 @@ Thank you for your positive contributions to the server Alice, such as posting t
 
 I'll concede that I'm not a psychologist and labeling him as a narcissist without any training is wrong. However, applying that label makes so many things fall into place that it helps me see why this unraveled this way. Alice feeling attacked, followed by targeting Charlie, followed by trying to disseminate the manifesto. But it's ultimately a label applied probably incorrectly by a non-professional.
 
-What I know for certain, is that some people feel targeted when a moderator takes action against them and feel wronged if the moderator personally called them out. You know what you should do when a moderator says you did something wrong? **"Oh I'm sorry, I won't do it again."** It's not a personal vendetta against you. We're trying to make the server a place for everyone. **Not just you.** 
+What I know for certain, is that some people feel targeted when a moderator takes action against them and feel wronged if the moderator personally called them out. You know what you should do when a moderator says you did something wrong? **"Oh I'm sorry, I won't do it again."** It's not a personal vendetta against you. We're trying to make the server a place for everyone. **Not just your hangout.** 
 
 If you disagree with the action, you don't go to shit-flinging. You have a civil discussion. We make mistakes, it happens. The mistakes tend to get undone when you approach them with a level-head. Any big decision we take has a longer discussion in a staff channel because that's how much we value taking the right action, and try to not let an emotional state cloud a logical process.
 
