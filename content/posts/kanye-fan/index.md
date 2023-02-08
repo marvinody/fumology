@@ -198,7 +198,7 @@ I'll concede that I'm not a psychologist and labeling him as a narcissist withou
 
 What I know for certain, is that some people feel targeted when a moderator takes action against them and feel wronged if the moderator personally called them out. You know what you should do when a moderator says you did something wrong? **"Oh I'm sorry, I won't do it again."** It's not a personal vendetta against you. We're trying to make the server a place for everyone. **Not just your hangout.** 
 
-If you disagree with the action, you don't go to shit-flinging. You have a civil discussion. We make mistakes, it happens. The mistakes tend to get undone when you approach them with a level-head. Any big decision we take has a longer discussion in a staff channel because that's how much we value taking the right action, and try to not let an emotional state cloud a logical process.
+If you disagree with the action, you don't resort to shit-flinging. You have a civil discussion. We make mistakes, it happens. The mistakes tend to get undone when you approach them with a level-head. Any big decision we take has a longer discussion in a staff channel because that's how much we value taking the right action, and try to not let an emotional state cloud a logical process.
 
 I still don't understand why there's this much drama in a server centered around plushes, but that's why we have moderators - to take out the trash.
 
