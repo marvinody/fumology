@@ -1,8 +1,10 @@
-# baseURL: https://fumo.systems/
+baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
-title: Fumology
+title: Cupper
 theme: cupper-hugo-theme
+googleAnalytics: UA-123456789-1
+disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -15,32 +17,38 @@ imaging:
   quality: 99
 
 params:
-  description: A collection of fumo lore over the years
-  homeMetaContent: A collection of fumo lore over the years 
-  footer: Add your stories on [GitHub](https://github.com/marvinody/fumology)
+  description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
+  codePenUser: someUser
   katex: true
   hideHeaderLinks: false
   search: true
-  showThemeSwitcher: false
+  showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  logoAlt: "Yachie reading a book"
+  # navTitleText: Cupper Theme
+  logoAlt: An alternative text description of the logo
   customCss:
-    - css/custom.css
-
+    - css/custom_01.css
+    - css/custom_02.css
   customJs:
     - js/custom_01.js
     - js/custom_02.js
+  utterances:
+    repo: username/username.github.io
+    issueTerm: title
+    theme: github-light
 
 menu:
   nav:
     - name: Home
       url: /
       weight: 1
-    - name: Posts
-      url: /posts/
+    - name: Blog
+      url: /post/
       weight: 2
     - name: Tags
       url: /tags/
