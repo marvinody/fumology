@@ -1,7 +1,7 @@
 ---
 title: "Slander"
 date: 2023-09-06T20:29:17-04:00
-draft: true
+draft: false
 ---
 
 ## Overview
@@ -38,6 +38,8 @@ I think the creation of his custom fumos led to an increase in posting them (jus
 We touched on (3) and (4) a bit with him putting down other custom makers and putting his own creations on a pedestal. As an aside to spread some wisdom, the moment you stop criticizing yourself is the moment you stop improving. You always can improve or learn more and I believe one of the better reasons to find meaning in your life is to find something you like and continually improve on it and I hope everyone can find that one thing or things they can hold onto for life. Coming back to our character, I will say that (4) is not always constant with him and there are times where he compliments others and since I lack the obvious degree in Psychology, I can't give a proper diagnosis but I think it's more about categorizing problematic behavior than giving a diagnosis for someone to identify and improve themselves. I don't think it's that simple as saying one compliment to a user undoes how he views his own creation of one character to another creator's design take on that character. But it's definitely worth stating that the compliments did happen occasionally.
 
 Now, why do I put (1) as a cherrypicked sample? To address the elephant in the room about a community that is centered around posting pictures and having others enjoy them, yes, everyone who posts pictures generally wants others to see them. It's hard to quantify exactly how you can tell when a user is looking for attention according to a rubric and score X amount of points for a single message. But when someone says things like "stop giving me attention," they're generally looking for attention. People who wouldn't want it, either wouldn't post in the first place or would just step away. The ones who keep going at it are almost certainly doing it, if not fully, then at least partially for the attention. Again, that's not inherently bad since the community revolves around people posting pictures and getting reactions or seeing others happy about their pictures. I'm not saying he's evil because he likes seeing people react to his pictures. I feel like I have to state this because if I don't, I'll get blamed for being ambiguous and I want to ensure that it can't be taken in a manner otherwise.
+
+
 
 ## The Beginning of the End
 User DMing me chats and giving me a tip of his activity
