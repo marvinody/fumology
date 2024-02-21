@@ -62,18 +62,18 @@ Shady website that pretends to sell you a fumo but they'll take your money and w
 Here are some keywords you can use to help you search on the above sites. If you're looking for a specific character, go to the character's wiki page & copy their Japanese name and try including that for more specific results.
 “If you’re looking for a specific character, look up the character’s wiki page, copy their Japanese name, and try including that for more specific results.”
 
-`東方ぬいぐるみ` = "Touhou plush"
-`ふもふも` = "fumofumo"
-`ハンドメイド ぬいぐるみ 東方` = "handmade plush Touhou"
-`すくすく` = "sukusuku"
-`ふにふに` = “funifuni”
-`びっくるみ` = “bikkurumi”
-`だるぐるみ` = “darugurumi”
-`ぬいまる` = “nuimaru”
-`マスコット` = “mascot”
-`ミニぬいぐるみ` = “mini plush”
-`まんなか` = “mannaka”
-`でかふも` = “deka fumo”
+- `東方ぬいぐるみ` = "Touhou plush"
+- `ふもふも` = "fumofumo"
+- `ハンドメイド ぬいぐるみ 東方` = "handmade plush Touhou"
+- `すくすく` = "sukusuku"
+- `ふにふに` = “funifuni”
+- `びっくるみ` = “bikkurumi”
+- `だるぐるみ` = “darugurumi”
+- `ぬいまる` = “nuimaru”
+- `マスコット` = “mascot”
+- `ミニぬいぐるみ` = “mini plush”
+- `まんなか` = “mannaka”
+- `でかふも` = “deka fumo”
 
 # Recommended Proxies
 `Zenmarket, Buyee, FromJapan, Neokyo`
