@@ -1,7 +1,7 @@
 ---
 title: "Fumo Buying"
 date: 2024-02-20T20:40:01-04:00
-draft: true
+draft: false
 tags: [buying, guide, shopping]
 summary: "A summary of how to buy a fumo and where to buy them."
 ---
