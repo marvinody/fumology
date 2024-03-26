@@ -84,5 +84,6 @@ Here are some keywords you can use to help you search on the above sites. If you
 - [Fumo Discord Server](https://discord.gg/fumofumo)
 - [My Figure Collection](https://myfigurecollection.net/)
 - [Buying FAQ](/posts/buying-faq) that will contains tons more detailed info
+- [Touhou Doujin Plush Guide on MFC](https://myfigurecollection.net/blogpost/4987)
 
 If you need tips on where to find genuine fumos without breaking the bank, ask in #fumo-help-check-pins or #amiami-chat :amico:

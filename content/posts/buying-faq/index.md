@@ -107,7 +107,7 @@ For your ease of use, here are some common plushes you might want links for esti
 - [Large Size Yuyuko (Deka)](https://www.amiami.com/eng/detail/?gcode=GOODS-04257769) (of note, Dekas cannot be combined with other packages)
 
 ### How do I downsize my package?
-A: go to Amiami’s homepage and select “Contact Us”. [Submit a request](https://support.amiami.com/hc/en-us/requests/new) with your order number and ask them if you can have your items put into a smaller box. 
+Go to Amiami’s homepage and select “Contact Us”. [Submit a request](https://support.amiami.com/hc/en-us/requests/new) with your order number and ask them if you can have your items put into a smaller box. 
 
 ### Why did this limited stock suddenly pop up on amiami and go away within seconds?
 The Fumo server has a janky bot that collect Amiami listings and alerts us if it senses a stock change. Sometimes Amiami will get some random set in stock, like if someone cancels a pre-order, they might put it up for sale. These events happen at a completely random time, for a completely random selection of plushes, with a completely random amount of stock. All that to say, we don't know when it happens.
