@@ -21,6 +21,23 @@ We mention some in the [fumo buying page](/posts/buying/#recommended-proxies) bu
 ### What is Suruga-ya, Lashinbang, Mercari, etc
 We mention the well-known ones in the [fumo buying page](/posts/buying/#secondhand--bootleg-fumo-sellers).
 
+### What are my different shipping options?
+You'll hear these options when shipping packages:
+
+| Shipping Method | Rough Time Estimate | Always has tracking? |
+| ----- | --- | ----- |
+| EMS | 1-3 weeks | Yes
+| DHL | 3-10 days | Yes
+| SAL | 6-13 days | Only Registered
+| Air Small Packet | 2-4 weeks | Only Registered
+| Air Parcel | 2-4  weeks| Yes
+| Surface Parcel | 2-4 months | Yes (but sometimes doesn't update)
+| Surface Mail | 2-4 months | Yes (but sometimes doesn't update)
+
+Prices will vary wildly depending on location, package size and/or weight. Different services have different methods to determine shipping and the best way to estimate shipping is to get a quote if you can. The second best way is finding a similarly-shipped package. If you ever plan on asking, you should include at least these 3 pieces of information: from where, to where, and what. 
+
+If you need extended summaries, you can view several better resources like [Japan Post](https://www.post.japanpost.jp/int/service/dispatch/index_en.html), [Hobby Link Japan](https://support.hlj.com/hc/en-us/articles/115001861474-Shipping-Methods-Overview), or even [Amiami](https://support.amiami.com/hc/en-us/articles/13770040744345-Shipping-Service-Comparison). An important note is that not all shipping services may give you a tracking number, and a tracking number is almost always good for your sanity if you're inexperienced in buying overseas. Confirm that the method does have a tracking number or is "Registered" meaning tracking, normally you can find this on the site that will ultimately ship to you. [HLJ](https://www.hlj.com/shipping-from-hobbylink-japan/) and [Amiami](https://support.amiami.com/hc/en-us/articles/360048840471-Available-Shipping-method-table-by-country) both let you check available methods for your destination country.
+
 ### What is VAT or Customs Tax?
 Slightly different things but both are extra fees you may have to pay on your packages or your country will be angry at you.
 Outside the EU, VAT isn't something to worry about, but for our EU friends you'll have to pay about 19% VAT (and sometimes an additional flat fee to the delivery company).
@@ -44,6 +61,9 @@ The minimum values for customs have been pulled from [Global Express](https://gl
 | Viet Nam [VN] | 1,000,000 VND | No |
 | Mexico [MX] | 980 MXN | No |
 | Singapore [SG] | 400 SGD | 9% GST |
+
+### How do I avoid VAT or Customs Tax?
+This is illegal to do and you definitely shouldn't do it, but people have mentioned that some proxies or forwarders let you undervalue the item or mark it as a gift to pay less fees. You definitely should avoid doing this because you are robbing your country from needed taxes they collect. If your package is undervalued, gets lost, and you need to file a claim, you can also recover up to the value of the declared package.
 
 ### What is a Sniper Bid and how do Bids work on Buyee?
 Sniping is a broad term for sneaking in at the last few minutes during an auction and placing a higher bid. This, in the past, would result in in a higher chance to win the bid since you would catch the other bidders offguard with a last minute increase. In modern days, most auction sites have "anti-sniping" built in which means if you place a bid in the last few minutes, the auction timer will reset to 15 minutes to give people a chance to react. Buyee has a sniping feature built in which you can give it a number and when the auction is nearly over, buyee will apply the smallest amount of your number to give you the winning bid. This can happen a few times if someone else is bidding against you. 
@@ -95,6 +115,9 @@ Time is the main factor here. A suggestion is to have searches for whichever plu
 
 ## Amiami-specific Questions
 
+### What is the relationship between Giftgift and Amiami? 
+Gift makes the plushs, Amiami ships them (now). Amiami used to ship them in the past (pre-2017), then Gift decided to handle shopping on their Giftshop page (2017-2021), then they moved back to Amiami in 2021.
+
 ### Will Amiami ship to me?
 You can check on [their chart](https://support.amiami.com/hc/en-us/articles/360048840471-Available-Shipping-method-table-by-country) if your country is listed.
 
@@ -122,7 +145,10 @@ Refer to the [fumo buying page](/posts/buying/) for what different sites will al
 For **official** fumos, you can see Gift's archive of their [Touhou plushes](https://www.gift-gift.jp/nui/toho.html), and their [general plush lines](https://www.gift-gift.jp/nui/). For a wider list of plushes, you are encouraged to used [MyFigureCollection](https://myfigurecollection.net/) since it has a much larger collection from various creators. If a plush isn't listed on these sites, there's a chance for it to be a custom created plush by a fan, or a bootleg company that's shifting designs.
 
 ### How often do fumos get announced or released?
-New fumos are announced usually twice a year, roughly in spring and autumn. After that it takes an indeterminant amount of time to be actually available to be purchased on Amiami and further time to be shipped out. Good luck!
+New fumos are generally announced twice a year at Reitaisai. After that it takes an indeterminant amount of time to be actually available to be purchased on Amiami and further time to be shipped out. Good luck!
+
+### What is Reitaisai?
+Think Comicon but for Touhou. It happens twice a year in Spring & Autumn, and the [Touhou Wiki](https://en.touhouwiki.net/wiki/Reitaisai) has a collection
 
 ### When will a fumo of this character be on sale?
 For regular fumos:
