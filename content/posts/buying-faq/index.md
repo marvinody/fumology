@@ -154,7 +154,7 @@ Think Comicon but for Touhou. It happens twice a year in Spring & Autumn, and th
 For regular fumos:
 If you're a fan of EoSD, likely within one year, with a different colored version of her.
 If you're after other regular fumos, maybe in a year or two; as we've said, there are no guarantees (not even the previous quip about EoSD recolors is a guarantee).
-Keep an eye on overstocks, you may be plesantly surprised.
+Keep an eye on overstocks, you may be pleasantly surprised.
 
 For mannakas and dekas:
 Anywhere between now and the end of time. Do note that while mannaka sales work like regular fumos but rarer, dekas, when they arrive, are limited sale and have not been made-to-order so you must be extremely quick when purchasing.
