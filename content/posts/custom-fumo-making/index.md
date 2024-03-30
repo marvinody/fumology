@@ -28,11 +28,11 @@ Fill out a general FAQ here of maybe
   - [CholyKnight](https://cholyknight.com/)
     - [Plush sewing basics eBook](https://cholyknight.com/2018/04/17/plush-sewing-basics-ebook/?amp=1) - Good read if you've never sewn in your life
 
-### Patterns
-Various patterns that people have shared on the Discord or elsewhere. Each link will lead to a dedicated page with content made by that creator to make it easiesr to give credit & share images. The display name will be the last known Discord handle of the user unless otherwise stated
-- Anon on 4chan
+### Patterns & Guides
+Various patterns or text guides that people have shared on the Discord or elsewhere. Each link will lead to a dedicated page with content made by that creator to make it easiesr to give credit & share images. The display name will be the last known Discord handle of the user unless otherwise stated
+- [Anon on 4chan](guides/4chan-anon/)
   - Deconstructed Fumo pattern + eyes
-- Sarto
+- [Sarto](guides/sarto/)
   - Bangs guide
   - Torso sewing guide
   - Material Lists
