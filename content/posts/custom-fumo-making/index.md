@@ -30,9 +30,9 @@ Fill out a general FAQ here of maybe
 
 ### Patterns & Guides
 Various patterns or text guides that people have shared on the Discord or elsewhere. Each link will lead to a dedicated page with content made by that creator to make it easiesr to give credit & share images. The display name will be the last known Discord handle of the user unless otherwise stated
-- [Anon on 4chan](guides/4chan-anon/)
+- [Anon on 4chan](/posts/custom-guides-directory/4chan-anon/)
   - Deconstructed Fumo pattern + eyes
-- [Sarto](guides/sarto/)
+- [Sarto](/posts/custom-guides-directory/sarto/)
   - Bangs guide
   - Torso sewing guide
   - Material Lists
