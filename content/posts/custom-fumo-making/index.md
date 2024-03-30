@@ -3,7 +3,7 @@ title: "Custom Fumo Making"
 date: 2024-03-29T01:42:19-04:00
 draft: false
 tags: [diy, custom, protofumo, fumology]
-summary: "The story of a Cirno falling down and floating through a river."
+summary: "A collection of custom plush making tidbits from our community and beyond."
 
 ---
 
