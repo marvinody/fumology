@@ -11,24 +11,14 @@ summary: "A collection of custom plush making tidbits from our community and bey
 
 A lot of this detail will have bene lifted from the #custom-fumo-hub on the [discord](https://discord.gg/fumofumo) so if you have any questions or need help, there's lots of creators there who can try to help you in making a soft new friend.
 
-**All the files & resources will be at the bottom of the page if you're looking**, credit is attempted to be given when possible, but let us know if we made a mistake and we'll update it.
+Credit is attempted to be given when possible, but let us know if we made a mistake and we'll update it.
 
 Fill out a general FAQ here of maybe 
 
 
 ## Resources / Files
 
-### Videos
-- [How to make plushies](https://youtu.be/azJNxt9J_gA) - General overview of the process as a whole, good to watch if you've never sewn in your life.
-- [Ralsei](https://www.youtube.com/watch?v=VtLsLugPw8c) - Cool way to make glasses for them
-- [Embroidery Fill Stitches](https://youtu.be/FAyFfMb-ZS4) - You might be using these if you don't have an embroidery machine (different from a sewing machine usually)
-
-### Links to various external plush making guides
-  - [makeshiftwings](https://www.plushbymakeshiftwings.com/)
-  - [CholyKnight](https://cholyknight.com/)
-    - [Plush sewing basics eBook](https://cholyknight.com/2018/04/17/plush-sewing-basics-ebook/?amp=1) - Good read if you've never sewn in your life
-
-### Patterns & Guides
+### Patterns & Guides from Members
 Various patterns or text guides that people have shared on the Discord or elsewhere. Each link will lead to a dedicated page with content made by that creator to make it easiesr to give credit & share images. The display name will be the last known Discord handle of the user unless otherwise stated
 - [Anon on 4chan](/posts/custom-guides-directory/4chan-anon/)
   - Deconstructed Fumo pattern + eyes
@@ -62,7 +52,18 @@ Various patterns or text guides that people have shared on the Discord or elsewh
   - Assembly guide
 - [sailinyumemi](/posts/custom-guides-directory/chiyurisoup) (Chiyuri Soup)
   - Inu Sakuya Fumo pattern
-  
+
+### Videos
+- [How to make plushies](https://youtu.be/azJNxt9J_gA) - General overview of the process as a whole, good to watch if you've never sewn in your life.
+- [Ralsei](https://www.youtube.com/watch?v=VtLsLugPw8c) - Cool way to make glasses for them
+- [Embroidery Fill Stitches](https://youtu.be/FAyFfMb-ZS4) - You might be using these if you don't have an embroidery machine (different from a sewing machine usually)
+
+### Links to various external plush making guides
+  - [makeshiftwings](https://www.plushbymakeshiftwings.com/)
+  - [CholyKnight](https://cholyknight.com/)
+    - [Plush sewing basics eBook](https://cholyknight.com/2018/04/17/plush-sewing-basics-ebook/?amp=1) - Good read if you've never sewn in your life
+
+
 ## Can't make a plush? Commission one!
 
 We have a couple of channels for custom makers to post when they're opening commissions to create new plushes or when they're trying to sell already made ones! If you join the [server](https://discord.gg/fumofumo), make sure to pick up the correct role so you won't miss an update. You can also "follow" the channel to get notifications in your own server.
