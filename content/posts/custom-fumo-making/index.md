@@ -37,40 +37,32 @@ Various patterns or text guides that people have shared on the Discord or elsewh
   - Torso sewing guide
   - Material Lists
   - Face embroidery files
-- Albinokoi
-  - Hair + skirt guide
+- [Albinokoi](/posts/custom-guides-directory/albinokoi)
   - Deconstruction guide
-- Romanski
+  - Hair + skirt guide
+- [Romanski](/posts/custom-guides-directory/romanski)
   - Fumo pattern
 - /u/aragon_lediagon (reddit)
-  - link to his posts
-- Royalty
+  - [Hand Embroidery Tutorial](https://www.reddit.com/r/Fumofumo/comments/174ur76/i_made_a_hand_embroidery_face_guide_for_those_who/)
+  - [Fumo Pattern](https://www.reddit.com/r/Fumofumo/comments/185zsc1/heres_a_pattern_i_made_and_use_for_customs_for/)
+- [Royalty](/posts/custom-guides-directory/royalty)
   - Button Template
-  - Fumo pattern
-- Kalejdoskop
+  - Fumo pattern (with darts)
+- [Kalejdoskop](/posts/custom-guides-directory/kalejdoskop)
   - Sukusuku pattern
-- Goop
-  - Fumo pattern
-  - Assembly guide
+- [Gasto_projecteur](/posts/custom-guides-directory/goop) (Goop)
+  - Material List
   - Measuring existing dimensions guide
-- Toshiphus
+  - Assembly guide (Royalty Pattern)
+  - Extensive Fumo pattern
+  - How to Leg (leg guide)
+- [Toshiphus](/posts/custom-guides-directory/tosiphus)
   - Fumo video tutorial
-- Feldengruskt
+- [Feldengruskt](/posts/custom-guides-directory/feldengruskt)
   - Assembly guide
-- Chiyuri Soup
-  - Inu Sakuya fumo pattern
-### Establish Custom Fumo Sellers
-- Yumemey
-  - [Twitter](https://twitter.com/Yumemimeme/)
-  - [Youtube](https://www.youtube.com/Yumemey)
-- Cherries 
-  - [Twitter](https://twitter.com/IesCherries)
-- Albinokoi
-  - [Twitter](https://twitter.com/albinokoi)
-  - [Website](https://albinokoiplush.carrd.co/)
-- Anna's Handmade
-  - [Twitter](https://twitter.com/Touhoufan1996)
-- Tek
-  - [Twitter](https://twitter.com/real__Tek/)
-- This might be a mistake since I'm not sure if it's wise to link like discord in here for people who opened comms in the past but maybe not anymore? 
-  - should this section be nuked and just point to comm channel in discord? Might be better
+- [sailinyumemi](/posts/custom-guides-directory/chiyurisoup) (Chiyuri Soup)
+  - Inu Sakuya Fumo pattern
+  
+## Can't make a plush? Commission one!
+
+We have a couple of channels for custom makers to post when they're opening commissions to create new plushes or when they're trying to sell already made ones! If you join the [server](https://discord.gg/fumofumo), make sure to pick up the correct role so you won't miss an update. You can also "follow" the channel to get notifications in your own server.

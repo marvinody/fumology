@@ -5,7 +5,9 @@ draft: false
 tags: [diy, custom]
 
 ---
-[@unnaturalheaven (twitter)](https://twitter.com/unnaturalheaven)
+## Info
+- [@unnaturalheaven (Twitter)](https://twitter.com/unnaturalheaven)
+- @sarto1676 (Discord)
 
 ## Materials to use for Fumo Making
 

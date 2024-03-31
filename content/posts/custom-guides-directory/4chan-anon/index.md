@@ -10,7 +10,7 @@ tags: [diy, custom]
 
 {{< figure src="./FLAN_HEAD.png" >}}
 
-{{< figure src="./FLAN_BODY.png" >}}
+{{< figure src="./FLAN_BODY.png" title="arm front should be x2, not x4" >}}
 
 {{< figure src="./embroidery.png" link="./eyes.pes" title="Preview of the embroidery eyes (click to download)">}}
 
