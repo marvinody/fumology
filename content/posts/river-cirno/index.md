@@ -15,11 +15,11 @@ A short story with a happy ending!
 
 Someone from the group recorded her floating downstream
 
-{{< tweet 1379086424746565638 >}}
+{{< tweet user=KBMollysuh id=1379086424746565638 >}}
 
 After a few hours, she was found!
 
-{{< tweet 1379159969929510914 >}}
+{{< tweet user=Tyler_Ilikefumo id=1379159969929510914 >}}
 
 Soon after, she got a nice cleaning and drying.
 
