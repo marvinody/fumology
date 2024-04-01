@@ -6,16 +6,17 @@ tags: [diy, custom]
 
 ---
 ## Info
-- [@unnaturalheaven (Twitter)](https://twitter.com/unnaturalheaven)
-- @sarto1676 (Discord)
+- [@sartouhou (Twitter)](https://twitter.com/sartouhou)
+- [@sartouhou (Instagram)](https://www.instagram.com/sartouhou/)
+
 
 ## Materials to use for Fumo Making
 
 ### Base (from-scratch only): 
-When making a base, you'll need toyknit, a material which doesn't fray or pill. You can find it on sites like aliexpress marketed as "doll skin fabric" and such. You'll need skin color, white (for the underwear) and any shoe color(s). Popular sellers are [ibotti](https://aliexpress.com/item/32603856876.html) for skin color, you'll want to pick the option A for normal fumos; [for other colors](https://aliexpress.com/item/32710927906.html) ) and [hopen textiles](https://aliexpress.com/item/32909551665.html) (a bit more expensive, but has many more colors than the 11 ibotti has to offer. You can contact the seller if you want to choose from more colors).
+When making a base, you'll need toyknit, a material which doesn't fray or pill. You can find it on sites like aliexpress marketed as "doll skin fabric" and such. You'll need skin color, white (for the underwear) and any shoe color(s). Popular sellers are [ibotti](https://aliexpress.com/item/32603856876.html) for skin color, you'll want to pick the option A for normal fumos; [this listing](https://aliexpress.com/item/32710927906.html) for other colors and [hopen textiles](https://aliexpress.com/item/32909551665.html) (a bit more expensive, but has many more colors than the 11 ibotti has to offer. You can contact the seller if you want to choose from more colors).
 
 ### Secret tip (from-scratch only): 
-If you don't want (or don't have the money) to buy an embroidery machine, try looking around for shops near you that have one. There are many shops that embroider things for you for a fee. I don't know how they work since I bought a machine before trying any, but it's worth checking out if you're just starting out. You can find the embroidery file in earlier pins.
+If you don't want (or don't have the money) to buy an embroidery machine, try looking around for shops near you that have one. There are many fabric stores/haberdasheries that embroider things for you for a fee. I don't know how they work since I bought a machine before trying any, but it's worth checking out if you're just starting out. You can find the embroidery file later in the guide.
 
 ### Hair
 The two most used materials are blizzard fleece and minky. Fleece has pile (hair) on both sides as opposed to minky, so it might be more difficult to work with depending on how long the pile length is. Minky tends to be more expensive, but softer and thinner. You can also go for other fleece types with bigger pile lengths if you want the Extra Fluffy™️ look. None of these are exactly what official fumos use, but they're close enough.
