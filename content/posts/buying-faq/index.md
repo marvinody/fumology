@@ -164,3 +164,19 @@ Anywhere between now and the end of time. Do note that while mannaka sales work 
 ### Where can I find Gift Closet items?
 You can see all the official Gift Closet items on [Gift's page](https://www.gift-gift.jp/nuigurumi_costume/). Note that there are two sizes, one for 20cm and one for 15cm (at the bottom, noted by a small strap near the head icon). Here's a [Discord message](https://discord.com/channels/257310633211461633/747625026806743072/1173768471834800198) with several links to Suruga-Ya searches to help finding them. The message includes a brand called UCHI NOCO which is unrelated to Gift and makes other smaller sized outfits that you may like. Sometimes just searching "Gift Closet" is enough to get you decent results on most Japanese sites.
 
+## General Fumo Questions
+### What do "v1" and "1.5" mean?
+The fumo community uses a different definition for these terms than Gift does.
+
+Gift uses "v1" to refer to the first design of a character released as a fumo, and "1.5" to denote remasters of the original design that replace the "v1s" in official sales going forward.
+
+The community created alternate definitions. By this definition "v1s" are fumos that include "Designed by ANGELTYPE" on the butt tag, and came with paper tags instead of (or in rare cases, in addition to) can badges. "1.5s" would be everything released since they stopped making the paper tags.
+
+These different definitions create some idiosyncrasies, such as the community mentioning 1.5 versions of characters that Gift never officially christened a 1.5 for (ie: Satori, Kaguya), and Flandre's 1.5 version being old enough to have her initial release including a paper tag, resulting in the existence of "Flandre 1.5 v1".
+
+### What is a "Puppo" or "Inu Sakuya" and how can I get one?
+"Puppo" is the community's pet name for Inu Sakuya, a very old, small Fumo variant
+
+Due to being sold once over 15 years ago at a much smaller quantity than mainline fumos and a promise being made to never rerun them, authentic Inu Sakuya fumos are exorbiantly rare and expensive.
+
+Certain bootleg manufactuerers make a close duplicate of her and some custom makers also sell them occassionally.
