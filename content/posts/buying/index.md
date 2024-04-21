@@ -6,8 +6,6 @@ tags: [buying, guide, shopping]
 summary: "A summary of how to buy a fumo and where to buy them."
 ---
 
-## Large WIP page, edits may happen
-
 ### Legend
 - ✅ = Official Plushes
 - ❌ = Bootleg Plushes
