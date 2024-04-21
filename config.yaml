@@ -18,7 +18,7 @@ imaging:
 params:
   description: A collection of fumo lore over the years
   homeMetaContent: A collection of fumo lore over the years 
-  footer: Add your stories on [GitHub](https://github.com/marvinody/fumology)
+  footer: Notice something wrong? Mention it on the [Discord](https://discord.gg/fumofumo)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   katex: true
