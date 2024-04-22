@@ -1,0 +1,1512 @@
+[
+  {
+    "name": "Hakurei Reimu",
+    "thwiki": "https://en.touhouwiki.net/wiki/Reimu_Hakurei",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "001",
+        "img": "nui001_01.jpg",
+        "release_dates": [2008, 2009, 2010, 2011, 2012],
+        "price_range": "$70 - $120",
+        "link": "https://www.gift-gift.jp/nui/nui001.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "029",
+        "img": "nui029_01.jpg",
+        "release_dates": [2010],
+        "price_range": "$80 - $120",
+        "link": "https://www.gift-gift.jp/archive/nui/nui029.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "345",
+        "img": "nui345_01.jpg",
+        "release_dates": [2015, 2016, 2017, 2018, 2020],
+        "price_range": "$40 - $60",
+        "link": "https://www.gift-gift.jp/nui/nui345.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "897",
+        "img": "nui897_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui897.html"
+      },
+      {
+        "name": "Lost Word Mysterious Shrine Maiden Version",
+        "id": "983",
+        "img": "nui983_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui983.html"
+      },
+      {
+        "name": "PC98 Version",
+        "id": "1035",
+        "img": "nui1035_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1035.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "122",
+        "img": "nui122_01.jpg",
+        "release_dates": [2011],
+        "link": "https://www.gift-gift.jp/nui/nui122.html",
+        "type": "mini"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "452",
+        "img": "nui452_01.jpg",
+        "release_dates": [2016],
+        "price_range": "$100 - $200+",
+        "link": "https://www.gift-gift.jp/nui/nui452.html",
+        "type": "mini"
+      },
+      {
+        "name": "Plush Strap",
+        "id": "745",
+        "img": "nui745.jpg",
+        "release_dates": [2020],
+        "price_range": "$20",
+        "link": "https://www.gift-gift.jp/nui/nui745.html",
+        "type": "mini"
+      },
+      {
+        "name": "Yukkuri Version",
+        "id": "1064",
+        "img": "nui1064_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1064.html"
+    }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "009",
+        "img": "nui009_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "price_range": "$500 - $750+",
+        "link": "https://www.gift-gift.jp/archive/nui/nui009.html",
+        "type": "deka"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "739",
+        "img": "nui739_01.jpg",
+        "release_dates": [2020],
+        "price_range": "$500",
+        "link": "https://www.gift-gift.jp/nui/nui739.html",
+        "type": "deka"
+      }
+    ],
+    "puppets": [
+      {
+        "name": "Puppet",
+        "id": "021",
+        "img": "nui021_01.jpg",
+        "release_dates": [2009],
+        "price_range": "$120+",
+        "link": "https://www.gift-gift.jp/nui/nui021.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Kirisame Marisa",
+    "thwiki": "https://en.touhouwiki.net/wiki/Marisa_Kirisame",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "002",
+        "img": "nui002_01.jpg",
+        "release_dates": [2008, 2009, 2010, 2011, 2012],
+        "link": "https://www.gift-gift.jp/nui/nui002.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "030",
+        "img": "nui030_01.jpg",
+        "release_dates": [2010],
+        "link": "https://www.gift-gift.jp/archive/nui/nui030.html"
+      },
+      {
+        "name": "Version 2",
+        "id": "278",
+        "img": "nui278_01.jpg",
+        "release_dates": [2014, 2016, 2020],
+        "link": "https://www.gift-gift.jp/nui/nui278.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "423",
+        "img": "nui423_01.jpg",
+        "release_dates": [2016, 2017, 2018, 2020],
+        "link": "https://www.gift-gift.jp/nui/nui423.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "898",
+        "img": "nui898_01.jpg",
+        "release_dates": [2022],
+        "price_range": "$70 - $120",
+        "link": "https://www.gift-gift.jp/nui/nui898.html"
+      },
+      {
+        "name": "Lost Word Mysterious Magician Version",
+        "id": "984",
+        "img": "nui984_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui984.html"
+      },
+      {
+        "name": "PC98 Version",
+        "id": "1036",
+        "img": "nui1036_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1036.html"
+      },
+      {
+        "name": "Yukkuri Version",
+        "id": "1065",
+        "img": "nui1065_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1065.html"
+    }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "123",
+        "img": "nui123_01.jpg",
+        "release_dates": [2011],
+        "link": "https://www.gift-gift.jp/nui/nui123.html",
+        "type": "mini"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "453",
+        "img": "nui453_01.jpg",
+        "release_dates": [2016],
+        "link": "https://www.gift-gift.jp/nui/nui453.html",
+        "type": "mini"
+      },
+      {
+        "name": "Plush Strap",
+        "id": "746",
+        "img": "nui746.jpg",
+        "release_dates": [2020],
+        "link": "https://www.gift-gift.jp/nui/nui746.html",
+        "type": "mini"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "023",
+        "img": "nui023_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "link": "https://www.gift-gift.jp/archive/nui/nui023.html",
+        "type": "deka"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "740",
+        "img": "nui740_01.jpg",
+        "release_dates": [2020],
+        "link": "https://www.gift-gift.jp/nui/nui740.html",
+        "type": "deka"
+      }
+    ],
+    "puppets": [
+      {
+        "name": "Puppet",
+        "id": "022",
+        "img": "nui022_01.jpg",
+        "release_dates": [2009],
+        "link": "https://www.gift-gift.jp/nui/nui022.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Izayoi Sakuya",
+    "thwiki": "https://en.touhouwiki.net/wiki/Sakuya_Izayoi",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "004",
+        "img": "nui004_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "link": "https://www.gift-gift.jp/nui/nui004.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "044",
+        "img": "nui044_01.jpg",
+        "release_dates": [2010],
+        "link": "https://www.gift-gift.jp/archive/nui/nui044.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "356",
+        "img": "nui356_01.jpg",
+        "release_dates": [2015, 2016, 2017, 2018, 2019, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui356.html"
+      },
+      {
+        "name": "Inu (Dog) Version",
+        "id": "inu-sakuya",
+        "release_dates": [2009],
+        "link": "",
+        "price_range": "$70 - $110"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "152",
+        "img": "nui152_01.jpg",
+        "release_dates": [2011],
+        "link": "https://www.gift-gift.jp/nui/nui152.html",
+        "type": "mini"
+      },
+      {
+        "name": "Plush Strap",
+        "id": "903",
+        "img": "nui903.jpg",
+        "release_dates": [2022],
+        "price_range": "$20",
+        "link": "https://www.gift-gift.jp/nui/nui903.html",
+        "type": "mini"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "853",
+        "img": "nui853_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui853.html",
+        "type": "deka"
+      }
+    ],
+    "mannakas": [
+        {
+            "name": "Version 1",
+            "id": "1078",
+            "img": "nui1078_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1078.html",
+            "type": "mannaka"
+        }
+    ]
+  },
+  {
+    "name": "Remilia Scarlet",
+    "thwiki": "https://en.touhouwiki.net/wiki/Remilia_Scarlet",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "005",
+        "img": "nui005_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "link": "https://www.gift-gift.jp/nui/nui005.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "105",
+        "img": "nui105_01.jpg",
+        "release_dates": [2011, 2012],
+        "link": "https://www.gift-gift.jp/archive/nui/nui105.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "364",
+        "img": "nui364_01.jpg",
+        "release_dates": [2015, 2017, 2018, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui364.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "686",
+        "img": "nui686_01.jpg",
+        "release_dates": [2019, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui686.html"
+      },
+      {
+        "name": "Lost Word Little Demon Version",
+        "id": "1032",
+        "img": "nui1032_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1032.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "168",
+        "img": "nui168_01.jpg",
+        "release_dates": [2011],
+        "link": "https://www.gift-gift.jp/nui/nui168.html",
+        "type": "mini"
+      },
+      {
+        "name": "Plush Strap",
+        "id": "901",
+        "img": "nui901.jpg",
+        "release_dates": [2022],
+        "price_range": "$20",
+        "link": "https://www.gift-gift.jp/nui/nui901.html",
+        "type": "mini"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "124",
+        "img": "nui124_01.jpg",
+        "release_dates": [2011],
+        "link": "https://www.gift-gift.jp/archive/nui/nui124.html",
+        "type": "deka"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "851",
+        "img": "nui851_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui851.html",
+        "type": "deka"
+      }
+    ],
+    "mannakas": [
+        {
+            "name": "Version 1",
+            "id": "1076",
+            "img": "nui1076_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1076.html",
+            "type": "mannaka"
+        }
+    ]
+  },
+  {
+    "name": "Patchouli Knowledge",
+    "thwiki": "https://en.touhouwiki.net/wiki/Patchouli_Knowledge",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "006",
+        "img": "nui006_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "link": "https://www.gift-gift.jp/nui/nui006.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "492",
+        "img": "nui492_01.jpg",
+        "release_dates": [2020, 2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui492.html"
+      },
+        {
+            "name": "Kourindou Version",
+            "id": "992",
+            "img": "nui992_01.jpg",
+            "release_dates": [2022],
+            "link": "https://www.gift-gift.jp/nui/nui992.html"
+        }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "943",
+        "img": "nui943_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui943.html",
+        "type": "mini"
+      }
+    ],
+    "mannakas": [
+        {
+            "name": "Version 1",
+            "id": "1042",
+            "img": "nui1042_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1042.html",
+            "type": "mannaka"
+        }
+    ]
+  },
+  {
+    "name": "Alice Margatroid",
+    "thwiki": "https://en.touhouwiki.net/wiki/Alice_Margatroid",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "007",
+        "img": "nui007_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "link": "https://www.gift-gift.jp/nui/nui007.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "491",
+        "img": "nui491_01.jpg",
+        "release_dates": [2017, 2020, 2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui491.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "944",
+        "type": "mini",
+        "img": "nui944_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui944.html"
+      },
+        {
+            "name": "Hourai Plush Strap",
+            "id": "1041",
+            "type": "mini",
+            "img": "nui1041_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1041.html"
+        }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "965",
+        "img": "nui965_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui965.html",
+        "type": "deka"
+      }
+    ],
+    "mannakas": [
+        {
+            "name": "Version 1",
+            "id": "1043",
+            "img": "nui1043_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1043.html",
+            "type": "mannaka"
+        }
+    ]
+  },
+  {
+    "name": "Flandre Scarlet",
+    "thwiki": "https://en.touhouwiki.net/wiki/Flandre_Scarlet",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "008",
+        "img": "nui008_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2012],
+        "link": "https://www.gift-gift.jp/nui/nui008.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "106",
+        "img": "nui106_01.jpg",
+        "release_dates": [2011, 2012],
+        "link": "https://www.gift-gift.jp/archive/nui/nui106.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "346",
+        "img": "nui346_01.jpg",
+        "release_dates": [2015, 2016, 2017, 2018, 2019, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui346.html"
+      },
+      {
+        "name": "Lost Word Little Demon Version",
+        "id": "1034",
+        "img": "nui1034_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1034.html"
+      },
+      {
+        "name": "Lost Word Vampire Hunter Version",
+        "id": "1033",
+        "img": "nui1033_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1033.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "189",
+        "img": "nui189_01.jpg",
+        "release_dates": [2012],
+        "link": "https://www.gift-gift.jp/archive/nui/nui189.html",
+        "type": "deka"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "852",
+        "img": "nui852_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui852.html",
+        "type": "deka"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "181",
+        "img": "nui181_01.jpg",
+        "release_dates": [2012],
+        "link": "https://www.gift-gift.jp/nui/nui181.html",
+        "type": "mini"
+      },
+      {
+        "name": "Plush Strap",
+        "id": "902",
+        "img": "nui902.jpg",
+        "release_dates": [2022],
+        "price_range": "$20",
+        "link": "https://www.gift-gift.jp/nui/nui902.html",
+        "type": "mini"
+      }
+    ],
+    "mannakas": [
+        {
+            "name": "Version 1",
+            "id": "1077",
+            "img": "nui1077_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1077.html",
+            "type": "mannaka"
+        }
+    ]
+  },
+  {
+    "name": "Kochiya Sanae",
+    "thwiki": "https://en.touhouwiki.net/wiki/Sanae_Kochiya",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "013",
+        "img": "nui013_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "link": "https://www.gift-gift.jp/nui/nui013.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "045",
+        "img": "nui045_01.jpg",
+        "release_dates": [2010],
+        "link": "https://www.gift-gift.jp/archive/nui/nui045.html"
+      },
+      {
+        "name": "Version 2",
+        "id": "290",
+        "img": "nui290_01.jpg",
+        "release_dates": [2014, 2019, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui290.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Nendroid Plus",
+        "id": "153",
+        "img": "nui153_01.jpg",
+        "release_dates": [2011],
+        "link": "https://www.gift-gift.jp/nui/nui153.html",
+        "type": "mini"
+      },
+      {
+        "name": "Plush Strap",
+        "id": "979",
+        "img": "nui979_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui979.html",
+        "type": "mini"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "966",
+        "img": "nui966_01.jpg",
+        "release_dates": [2010, 2011],
+        "link": "https://www.gift-gift.jp/nui/nui966.html",
+        "type": "deka"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Cirno",
+    "thwiki": "https://en.touhouwiki.net/wiki/Cirno",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "014",
+        "img": "nui014_01.jpg",
+        "release_dates": [2009, 2010, 2011, 2013],
+        "link": "https://www.gift-gift.jp/nui/nui014.html"
+      },
+      {
+        "name": "Nendroid Plus",
+        "id": "195",
+        "img": "nui195_01.jpg",
+        "release_dates": [2012],
+        "link": "https://www.gift-gift.jp/archive/nui/nui195.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "558",
+        "img": "nui558_01.jpg",
+        "release_dates": [2018, 2019, 2020, 2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui558.html"
+      },
+      {
+        "name": "Tanned Version",
+        "id": 559,
+        "img": "nui559_01.jpg",
+        "release_dates": [2018, 2019, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui559.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "1037",
+        "img": "nui1037_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1037.html",
+        "type": "mini"
+      },
+      {
+        "name": "Plush Strap Tanned Version",
+        "id": "1038",
+        "img": "nui1038_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1038.html",
+        "type": "mini"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "050",
+        "img": "nui050_01.jpg",
+        "release_dates": [2010, 2011],
+        "link": "https://www.gift-gift.jp/archive/nui/nui050.html",
+        "type": "deka"
+      }
+    ],
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "942",
+        "img": "nui942_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui942.html",
+        "type": "mannaka"
+      }
+    ]
+  },
+  {
+    "name": "Moriya Suwako",
+    "thwiki": "https://en.touhouwiki.net/wiki/Suwako_Moriya",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "015",
+        "img": "nui015_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "link": "https://www.gift-gift.jp/nui/nui015.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "936",
+        "img": "nui936_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui936.html"
+      }
+    ],
+    "straps": [
+        {
+            "name": "Plush Strap",
+            "id": "1075",
+            "img": "nui1075_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1075.html",
+            "type": "mini"
+        }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Konpaku Youmu",
+    "thwiki": "https://en.touhouwiki.net/wiki/Youmu_Konpaku",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "039",
+        "img": "nui039_01.jpg",
+        "release_dates": [2009, 2010, 2011],
+        "link": "https://www.gift-gift.jp/nui/nui039.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "489",
+        "img": "nui489_01.jpg",
+        "release_dates": [2017, 2018, 2019, 2020, 2021],
+        "link": "https://www.gift-gift.jp/nui/nui489.html"
+      },
+      {
+        "name": "Lost Word Mysterious Sword Master Version",
+        "id": "918",
+        "img": "nui918.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui918.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "920",
+        "img": "nui920_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui920.html",
+        "type": "deka"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "946",
+        "img": "nui946_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui946.html",
+        "type": "mini"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Saigyouji Yuyuko",
+    "thwiki": "https://en.touhouwiki.net/wiki/Yuyuko_Saigyouji",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "040",
+        "img": "nui040_01.jpg",
+        "release_dates": [2010, 2011, 2012],
+        "link": "https://www.gift-gift.jp/nui/nui040.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "490",
+        "img": "nui490_01.jpg",
+        "release_dates": [2017, 2018, 2019, 2020, 2021],
+        "link": "https://www.gift-gift.jp/nui/nui490.html"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "921",
+        "img": "nui921_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui921.html",
+        "type": "deka"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "945",
+        "img": "nui945_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui945.html",
+        "type": "mini"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Hong Meiling",
+    "thwiki": "https://en.touhouwiki.net/wiki/Hong_Meiling",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "056",
+        "img": "nui056_01.jpg",
+        "release_dates": [2010, 2011],
+        "link": "https://www.gift-gift.jp/nui/nui056.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "935",
+        "img": "nui935_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui935.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Chen",
+    "thwiki": "https://en.touhouwiki.net/wiki/Chen",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "080",
+        "img": "nui080_01.jpg",
+        "release_dates": [2010, 2011, 2013],
+        "link": "https://www.gift-gift.jp/nui/nui080.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "523",
+        "img": "nui523_01.jpg",
+        "release_dates": [2017, 2018, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui523.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "982",
+        "img": "nui982_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui982.html",
+        "type": "mini"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Yakumo Ran",
+    "thwiki": "https://en.touhouwiki.net/wiki/Ran_Yakumo",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "081",
+        "img": "nui081_01.jpg",
+        "release_dates": [2010, 2011, 2013],
+        "link": "https://www.gift-gift.jp/nui/nui081.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "524",
+        "img": "nui524_01.jpg",
+        "release_dates": [2017, 2018, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui524.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "981",
+        "img": "nui981_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui981.html",
+        "type": "mini"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Yakumo Yukari",
+    "thwiki": "https://en.touhouwiki.net/wiki/Yukari_Yakumo",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "082",
+        "img": "nui082_01.jpg",
+        "release_dates": [2010, 2011, 2013],
+        "link": "https://www.gift-gift.jp/nui/nui082.html"
+      },
+      {
+        "name": "Version 1.5",
+        "id": "525",
+        "img": "nui525_01.jpg",
+        "release_dates": [2017, 2018, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui525.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "991",
+        "img": "nui991_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui991.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "980",
+        "img": "nui980_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui980.html",
+        "type": "mini"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Houraisan Kaguya",
+    "thwiki": "https://en.touhouwiki.net/wiki/Kaguya_Houraisan",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "138",
+        "img": "nui138_01.jpg",
+        "release_dates": [2011, 2020, 2021, 2023],
+        "link": "https://www.gift-gift.jp/nui/nui138.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Fujiwara no Mokou",
+    "thwiki": "https://en.touhouwiki.net/wiki/Fujiwara_no_Mokou",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "139",
+        "img": "nui139_01.jpg",
+        "release_dates": [2011, 2016, 2018, 2020, 2021, 2023],
+        "link": "https://www.gift-gift.jp/nui/nui139.html"
+      }
+    ],
+    "straps": [
+        {
+            "name": "Plush Strap",
+            "id": "1072",
+            "img": "nui1072_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1072.html",
+            "type": "mini"
+        }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Komeiji Satori",
+    "thwiki": "https://en.touhouwiki.net/wiki/Satori_Komeiji",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "196",
+        "img": "nui196_01.jpg",
+        "release_dates": [2012, 2013, 2015, 2016, 2017, 2018, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui196.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "808",
+        "img": "nui808_01.jpg",
+        "release_dates": [2021],
+        "link": "https://www.gift-gift.jp/nui/nui808.html",
+        "type": "mini"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "820",
+        "img": "nui820_01.jpg",
+        "release_dates": [2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui820.html",
+        "type": "deka"
+      }
+    ],
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "940",
+        "img": "nui940_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui940.html",
+        "type": "mannaka"
+      }
+    ]
+  },
+  {
+    "name": "Komeiji Koishi",
+    "thwiki": "https://en.touhouwiki.net/wiki/Koishi_Komeiji",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "197",
+        "img": "nui197_01.jpg",
+        "release_dates": [2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui197.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "809",
+        "img": "nui809_01.jpg",
+        "release_dates": [2021],
+        "link": "https://www.gift-gift.jp/nui/nui809.html",
+        "type": "mini"
+      }
+    ],
+    "dekas": [
+      {
+        "name": "Version 1",
+        "id": "821",
+        "img": "nui821_01.jpg",
+        "release_dates": [2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui821.html",
+        "type": "deka"
+      }
+    ],
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "941",
+        "img": "nui941_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui941.html",
+        "type": "mannaka"
+      }
+    ]
+  },
+  {
+    "name": "Reisen Udongein Inaba",
+    "thwiki": "https://en.touhouwiki.net/wiki/Reisen_Udongein_Inaba",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "236",
+        "img": "nui236_01.jpg",
+        "release_dates": [2013, 2016, 2020, 2021, 2023],
+        "link": "https://www.gift-gift.jp/nui/nui236.html"
+      },
+      {
+        "name": "Hisouten Version",
+        "id": "424",
+        "img": "nui424_01.jpg",
+        "release_dates": [2016, 2020],
+        "link": "https://www.gift-gift.jp/nui/nui424.html"
+      }
+    ],
+    "straps": [
+        {
+            "name": "Plush Strap",
+            "id": "1040",
+            "img": "nui1040_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1040.html",
+            "type": "mini"
+        }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Inaba Tewi",
+    "thwiki": "https://en.touhouwiki.net/wiki/Tewi_Inaba",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "237",
+        "img": "nui237_01.jpg",
+        "release_dates": [2013, 2015, 2020, 2021, 2023],
+        "link": "https://www.gift-gift.jp/nui/nui237.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Hata no Kokoro",
+    "thwiki": "https://en.touhouwiki.net/wiki/Hata_no_Kokoro",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "310",
+        "img": "nui310_01.jpg",
+        "release_dates": [2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui310.html"
+      }
+    ],
+    "straps": [
+        {
+            "name": "Plush Strap",
+            "id": "1074",
+            "img": "nui1074_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1074.html",
+            "type": "mini"
+        }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Ibaraki Kasen",
+    "thwiki": "https://en.touhouwiki.net/wiki/Kasen_Ibaraki",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "454",
+        "img": "nui454_01.jpg",
+        "release_dates": [2016, 2017, 2020, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui454.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Shameimaru Aya",
+    "thwiki": "https://en.touhouwiki.net/wiki/Aya_Shameimaru",
+    "regular": [
+      {
+        "name": "Nendroid Plus",
+        "id": "058",
+        "img": "nui058_01.jpg",
+        "release_dates": [2010],
+        "link": "nui058_01.jpg"
+      },
+      {
+        "name": "Version 1",
+        "id": "493",
+        "img": "nui493_01.jpg",
+        "release_dates": [2017, 2018, 2019, 2020, 2021],
+        "link": "https://www.gift-gift.jp/nui/nui493.html"
+      },
+      {
+        "name": "Mountain of Faith Version",
+        "id": "937",
+        "img": "nui937_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui937.html"
+      }
+    ],
+    "straps": [
+        {
+            "name": "Plush Strap",
+            "id": "1039",
+            "img": "nui1039_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1039.html",
+            "type": "mini"
+        }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Himekaidou Hatate",
+    "thwiki": "https://en.touhouwiki.net/wiki/Hatate_Himekaidou",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "494",
+        "img": "nui494_01.jpg",
+        "release_dates": [2017, 2020, 2021],
+        "link": "https://www.gift-gift.jp/nui/nui494.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Hinanawi Tenshi",
+    "thwiki": "https://en.touhouwiki.net/wiki/Tenshi_Hinanawi",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "593",
+        "img": "nui593_01.jpg",
+        "release_dates": [2018, 2019, 2020, 2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui593.html"
+      }
+    ],
+    "straps": [
+        {
+            "name": "Plush Strap",
+            "id": "1073",
+            "img": "nui1073_01.jpg",
+            "link": "https://www.gift-gift.jp/nui/nui1073.html",
+            "type": "mini"
+        }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Yorigami Shion",
+    "thwiki": "https://en.touhouwiki.net/wiki/Shion_Yorigami",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "644",
+        "img": "nui644_01.jpg",
+        "release_dates": [2019, 2020, 2021],
+        "link": "https://www.gift-gift.jp/nui/nui644.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Kazami Yuuka",
+    "thwiki": "https://en.touhouwiki.net/wiki/Yuuka_Kazami",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "685",
+        "img": "nui685_01.jpg",
+        "release_dates": [2019, 2020, 2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui685.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Inubashiri Momiji",
+    "thwiki": "https://en.touhouwiki.net/wiki/Momiji_Inubashiri",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "773",
+        "img": "nui773_01.jpg",
+        "release_dates": [2020, 2021],
+        "link": "https://www.gift-gift.jp/nui/nui773.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Eirin Yagokoro",
+    "thwiki": "https://en.touhouwiki.net/wiki/Eirin_Yagokoro",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "807",
+        "img": "nui807_01.jpg",
+        "release_dates": [2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui807.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Rumia",
+    "thwiki": "https://en.touhouwiki.net/wiki/Rumia",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "834",
+        "img": "nui834_01.jpg",
+        "release_dates": [2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui834.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Shiki Eiki, Yamaxanadu",
+    "thwiki": "https://en.touhouwiki.net/wiki/Eiki_Shiki_Yamaxanadu",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "835",
+        "img": "nui835_01.jpg",
+        "release_dates": [2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui835.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Kawashiro Nitori",
+    "thwiki": "https://en.touhouwiki.net/wiki/Nitori_Kawashiro",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "836",
+        "img": "nui836_01.jpg",
+        "release_dates": [2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui836.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Yorigami Joon",
+    "thwiki": "https://en.touhouwiki.net/wiki/Joon_Yorigami",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "837",
+        "img": "nui837_01.jpg",
+        "release_dates": [2021, 2022],
+        "link": "https://www.gift-gift.jp/nui/nui837.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Usami Renko",
+    "thwiki": "https://en.touhouwiki.net/wiki/Renko_Usami",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "899",
+        "img": "nui899_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui899.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Toyosatomimi no Miko",
+    "thwiki": "https://en.touhouwiki.net/wiki/Toyosatomimi_no_Miko",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "900",
+        "img": "nui900_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui900.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Keiki Haniyasushin",
+    "thwiki": "https://en.touhouwiki.net/wiki/Keiki_Haniyasushin",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "939",
+        "img": "nui939_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui939.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Junko",
+    "thwiki": "https://en.touhouwiki.net/wiki/Junko",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "938",
+        "img": "nui938_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui938.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Seija Kijin",
+    "thwiki": "https://en.touhouwiki.net/wiki/Seija_Kijin",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "976",
+        "img": "nui976_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui976.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Mononobe no Futo",
+    "thwiki": "https://en.touhouwiki.net/wiki/Mononobe_no_Futo",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "975",
+        "img": "nui975_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui975.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Suika Ibuki",
+    "thwiki": "https://en.touhouwiki.net/wiki/Suika_Ibuki",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "974",
+        "img": "nui974_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui974.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Maribel Hearn",
+    "thwiki": "https://en.touhouwiki.net/wiki/Maribel_Hearn",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "973",
+        "img": "nui973_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui973.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Rinnosuke Morichika",
+    "thwiki": "https://en.touhouwiki.net/wiki/Rinnosuke_Morichika",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "990",
+        "img": "nui990_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui990.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Sagume Kishin",
+    "thwiki": "https://en.touhouwiki.net/wiki/Sagume_Kishin",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "1071",
+        "img": "nui1071_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1071.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Nue Houjuu",
+    "thwiki": "https://en.touhouwiki.net/wiki/Nue_Houjuu",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "1070",
+        "img": "nui1070_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1070.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Kogasa Tatara",
+    "thwiki": "https://en.touhouwiki.net/wiki/Kogasa_Tatara",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "1069",
+        "img": "nui1069_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1069.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Utusho Reiuji (Okuu)",
+    "thwiki": "https://en.touhouwiki.net/wiki/Utsuho_Reiuji",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "1068",
+        "img": "nui1068_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1068.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Rin Kaenbyou (Orin)",
+    "thwiki": "https://en.touhouwiki.net/wiki/Rin_Kaenbyou",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "1067",
+        "img": "nui1067_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1067.html"
+      }
+    ],
+    "mannakas": []
+  },
+  {
+    "name": "Parsee Mizuhashi",
+    "thwiki": "https://en.touhouwiki.net/wiki/Parsee_Mizuhashi",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "1066",
+        "img": "nui1066_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1066.html"
+      }
+    ],
+    "mannakas": []
+  }
+]

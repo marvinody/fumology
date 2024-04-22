@@ -7,7 +7,11 @@
     {{ partial "svg.html" . }}
     <div class="wrapper">
       {{ partial "header.html" . }}
-      <div class="main-and-footer">
+      {{ if .Params.hideNavBar }}
+        <div class="main-and-footer nav-hidden">
+      {{ else }}
+        <div class="main-and-footer">
+      {{ end }}
         <div>
           {{ block "main" . }}{{ end }}
           {{ if ne .Site.Params.moveFooterToHeader true }}

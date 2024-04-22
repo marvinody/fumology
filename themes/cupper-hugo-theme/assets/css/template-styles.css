@@ -360,6 +360,10 @@ caption {
 .main-and-footer {
     margin-left: 15rem;
 }
+.main-and-footer.nav-hidden {
+    margin-left: 0;
+
+}
 .main-and-footer > div {
     max-width: 40rem;
     margin: 0 auto;
