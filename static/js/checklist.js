@@ -65,7 +65,7 @@ $(document).ready(function() {
   loadChecklistIntoUI();
 
 
-  $('.action').click(function(e) {
+  $('.action').on('click', function(e) {
     const action = $(this).data('action');
     setView(action);
     renderChecklist();

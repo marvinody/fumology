@@ -79,7 +79,7 @@
         "id": "1064",
         "img": "nui1064_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui1064.html"
-    }
+      }
     ],
     "dekas": [
       {
@@ -170,7 +170,7 @@
         "id": "1065",
         "img": "nui1065_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui1065.html"
-    }
+      }
     ],
     "straps": [
       {
@@ -256,8 +256,14 @@
         "name": "Inu (Dog) Version",
         "id": "inu-sakuya",
         "release_dates": [2009],
-        "link": "",
+        "img": "inu.png",
         "price_range": "$70 - $110"
+      },
+      {
+        "name": "Lost Word Vampire Hunter Version",
+        "released": false,
+        "id": "9999",
+        "img": "nui9999_01.jpg"
       }
     ],
     "straps": [
@@ -290,13 +296,13 @@
       }
     ],
     "mannakas": [
-        {
-            "name": "Version 1",
-            "id": "1078",
-            "img": "nui1078_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1078.html",
-            "type": "mannaka"
-        }
+      {
+        "name": "Version 1",
+        "id": "1078",
+        "img": "nui1078_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1078.html",
+        "type": "mannaka"
+      }
     ]
   },
   {
@@ -376,13 +382,13 @@
       }
     ],
     "mannakas": [
-        {
-            "name": "Version 1",
-            "id": "1076",
-            "img": "nui1076_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1076.html",
-            "type": "mannaka"
-        }
+      {
+        "name": "Version 1",
+        "id": "1076",
+        "img": "nui1076_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1076.html",
+        "type": "mannaka"
+      }
     ]
   },
   {
@@ -403,13 +409,13 @@
         "release_dates": [2020, 2021, 2022],
         "link": "https://www.gift-gift.jp/nui/nui492.html"
       },
-        {
-            "name": "Kourindou Version",
-            "id": "992",
-            "img": "nui992_01.jpg",
-            "release_dates": [2022],
-            "link": "https://www.gift-gift.jp/nui/nui992.html"
-        }
+      {
+        "name": "Kourindou Version",
+        "id": "992",
+        "img": "nui992_01.jpg",
+        "release_dates": [2022],
+        "link": "https://www.gift-gift.jp/nui/nui992.html"
+      }
     ],
     "straps": [
       {
@@ -421,13 +427,13 @@
       }
     ],
     "mannakas": [
-        {
-            "name": "Version 1",
-            "id": "1042",
-            "img": "nui1042_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1042.html",
-            "type": "mannaka"
-        }
+      {
+        "name": "Version 1",
+        "id": "1042",
+        "img": "nui1042_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1042.html",
+        "type": "mannaka"
+      }
     ]
   },
   {
@@ -457,13 +463,13 @@
         "img": "nui944_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui944.html"
       },
-        {
-            "name": "Hourai Plush Strap",
-            "id": "1041",
-            "type": "mini",
-            "img": "nui1041_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1041.html"
-        }
+      {
+        "name": "Shanghai Plush Strap",
+        "id": "1041",
+        "type": "mini",
+        "img": "nui1041_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1041.html"
+      }
     ],
     "dekas": [
       {
@@ -475,13 +481,13 @@
       }
     ],
     "mannakas": [
-        {
-            "name": "Version 1",
-            "id": "1043",
-            "img": "nui1043_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1043.html",
-            "type": "mannaka"
-        }
+      {
+        "name": "Version 1",
+        "id": "1043",
+        "img": "nui1043_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1043.html",
+        "type": "mannaka"
+      }
     ]
   },
   {
@@ -560,13 +566,13 @@
       }
     ],
     "mannakas": [
-        {
-            "name": "Version 1",
-            "id": "1077",
-            "img": "nui1077_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1077.html",
-            "type": "mannaka"
-        }
+      {
+        "name": "Version 1",
+        "id": "1077",
+        "img": "nui1077_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1077.html",
+        "type": "mannaka"
+      }
     ]
   },
   {
@@ -712,13 +718,13 @@
       }
     ],
     "straps": [
-        {
-            "name": "Plush Strap",
-            "id": "1075",
-            "img": "nui1075_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1075.html",
-            "type": "mini"
-        }
+      {
+        "name": "Plush Strap",
+        "id": "1075",
+        "img": "nui1075_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1075.html",
+        "type": "mini"
+      }
     ],
     "mannakas": []
   },
@@ -786,6 +792,12 @@
         "img": "nui490_01.jpg",
         "release_dates": [2017, 2018, 2019, 2020, 2021],
         "link": "https://www.gift-gift.jp/nui/nui490.html"
+      },
+      {
+        "name": "Lost Word Little Ghost Version",
+        "id": "9997",
+        "img": "nui9997_01.jpg",
+        "released": false
       }
     ],
     "dekas": [
@@ -952,13 +964,13 @@
       }
     ],
     "straps": [
-        {
-            "name": "Plush Strap",
-            "id": "1072",
-            "img": "nui1072_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1072.html",
-            "type": "mini"
-        }
+      {
+        "name": "Plush Strap",
+        "id": "1072",
+        "img": "nui1072_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1072.html",
+        "type": "mini"
+      }
     ],
     "mannakas": []
   },
@@ -1014,6 +1026,12 @@
         "img": "nui197_01.jpg",
         "release_dates": [2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2022],
         "link": "https://www.gift-gift.jp/nui/nui197.html"
+      },
+      {
+        "name": "Lost Word Spontaneous White Beauty Version",
+        "id": "9998",
+        "img": "nui9998_01.jpg",
+        "released": false
       }
     ],
     "straps": [
@@ -1066,13 +1084,13 @@
       }
     ],
     "straps": [
-        {
-            "name": "Plush Strap",
-            "id": "1040",
-            "img": "nui1040_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1040.html",
-            "type": "mini"
-        }
+      {
+        "name": "Plush Strap",
+        "id": "1040",
+        "img": "nui1040_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1040.html",
+        "type": "mini"
+      }
     ],
     "mannakas": []
   },
@@ -1103,13 +1121,13 @@
       }
     ],
     "straps": [
-        {
-            "name": "Plush Strap",
-            "id": "1074",
-            "img": "nui1074_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1074.html",
-            "type": "mini"
-        }
+      {
+        "name": "Plush Strap",
+        "id": "1074",
+        "img": "nui1074_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1074.html",
+        "type": "mini"
+      }
     ],
     "mannakas": []
   },
@@ -1153,13 +1171,13 @@
       }
     ],
     "straps": [
-        {
-            "name": "Plush Strap",
-            "id": "1039",
-            "img": "nui1039_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1039.html",
-            "type": "mini"
-        }
+      {
+        "name": "Plush Strap",
+        "id": "1039",
+        "img": "nui1039_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1039.html",
+        "type": "mini"
+      }
     ],
     "mannakas": []
   },
@@ -1190,13 +1208,13 @@
       }
     ],
     "straps": [
-        {
-            "name": "Plush Strap",
-            "id": "1073",
-            "img": "nui1073_01.jpg",
-            "link": "https://www.gift-gift.jp/nui/nui1073.html",
-            "type": "mini"
-        }
+      {
+        "name": "Plush Strap",
+        "id": "1073",
+        "img": "nui1073_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1073.html",
+        "type": "mini"
+      }
     ],
     "mannakas": []
   },
