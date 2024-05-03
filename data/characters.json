@@ -253,6 +253,12 @@
         "link": "https://www.gift-gift.jp/nui/nui356.html"
       },
       {
+        "name": "Version 1.5",
+        "id": "968",
+        "img": "nui968_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui968.html"
+      },
+      {
         "name": "Inu (Dog) Version",
         "id": "inu-sakuya",
         "release_dates": [2009],
@@ -696,6 +702,13 @@
         "img": "nui942_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui942.html",
         "type": "mannaka"
+      },
+      {
+        "name": "Tanned Version",
+        "id": "9991",
+        "img": "nui9991_01.jpg",
+        "type": "mannaka",
+        "released": false
       }
     ]
   },
@@ -773,7 +786,15 @@
         "type": "mini"
       }
     ],
-    "mannakas": []
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "977",
+        "img": "nui977_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui977.html",
+        "type": "mannaka"
+      }
+    ]
   },
   {
     "name": "Saigyouji Yuyuko",
@@ -819,7 +840,15 @@
         "type": "mini"
       }
     ],
-    "mannakas": []
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "978",
+        "img": "nui978_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui978.html",
+        "type": "mannaka"
+      }
+    ]
   },
   {
     "name": "Hong Meiling",
@@ -1179,7 +1208,15 @@
         "type": "mini"
       }
     ],
-    "mannakas": []
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "9990",
+        "img": "nui9990_01.jpg",
+        "type": "mannaka",
+        "released": false
+      }
+    ]
   },
   {
     "name": "Himekaidou Hatate",
@@ -1284,6 +1321,15 @@
         "img": "nui834_01.jpg",
         "release_dates": [2021, 2022],
         "link": "https://www.gift-gift.jp/nui/nui834.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9989",
+        "img": "nui9989_01.jpg",
+        "type": "mini",
+        "released": false
       }
     ],
     "mannakas": []
@@ -1526,5 +1572,78 @@
       }
     ],
     "mannakas": []
+  },
+  {
+    "name": "Koakuma",
+    "thwiki": "https://en.touhouwiki.net/wiki/Koakuma",
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9988",
+        "img": "nui9988_01.jpg",
+        "type": "mini",
+        "released": false
+      }
+    ]
+  },
+  {
+    "name": "Nazrin",
+    "thwiki": "https://en.touhouwiki.net/wiki/Nazrin",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9992",
+        "img": "nui9992_01.jpg",
+        "released": false
+      }
+    ]
+  },
+  {
+    "name": "Hina Kagiyama",
+    "thwiki": "https://en.touhouwiki.net/wiki/Hina_Kagiyama",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9993",
+        "img": "nui9993_01.jpg",
+        "released": false
+      }
+    ]
+  },
+  {
+    "name": "Okina Matara",
+    "thwiki": "https://en.touhouwiki.net/wiki/Okina_Matara",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9994",
+        "img": "nui9994_01.jpg",
+        "released": false
+      }
+    ]
+  },
+  {
+    "name": "Chimata Tenkyuu",
+    "thwiki": "https://en.touhouwiki.net/wiki/Chimata_Tenkyuu",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9995",
+        "img": "nui9995_01.jpg",
+        "released": false
+      }
+    ]
+  },
+  {
+    "name": "Hecatia Lapislazuli",
+    "thwiki": "https://en.touhouwiki.net/wiki/Hecatia_Lapislazuli",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9994",
+        "img": "nui9994_01.jpg",
+        "released": false
+      }
+    ]
   }
 ]

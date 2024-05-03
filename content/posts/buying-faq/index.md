@@ -81,6 +81,13 @@ When using Buyee, it's helpful to see your bid as "the maximum amount you're ok 
 
 It should also be mentioned that if you *are* invested in buying an item, do not mention what item you are bidding on, or how much you are bidding in a public space. People can and will mess with you if they are cruel and either raise the item's price or just place a sniper bid outside your range. The time for celebration is when you get the winning email notification.
 
+### What is a Doujin Plush?
+Doujin plushies are plushies made by independent fan groups known as doujin circles. 
+
+While some of these plushies are part of a easy to find product line such as "funifuni" or "sukusuku hakutaku", others are not part of specific product lines and secondhand listings will be posted much less often. 
+
+For further reading, check out [piratepapillon's doujin plush guide on MFC](https://myfigurecollection.net/blogpost/4987)
+
 ## Secondhand Seller Questions
 For a collection of some sites, check out the [fumo buying page](/posts/buying/).
 
