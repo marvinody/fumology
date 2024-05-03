@@ -1,0 +1,13 @@
+
+{{ if .name }}
+  <div class="char-container">
+    <input type="checkbox" hidden id="{{ .id }}" name="{{ .id }}">
+    <label class="char {{ .type }} {{ cond (eq .released false) "un"  ""}}released" for="{{ .id }}" >
+      <div class="image-name">
+        {{ $image := resources.Get (.img | default "default.jpg")}}
+        <div class="name">{{.name}}</div>
+        <img class="img" src="{{ $image.RelPermalink }}"/>
+      </div>
+    </label>
+  </div>
+{{ end }}

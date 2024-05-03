@@ -46,6 +46,9 @@ menu:
     - name: Tags
       url: /tags/
       weight: 3
+    - name: Checklist
+      url: /checklist/
+      weight: 4
     - name: About
       url: /about/
       weight: 4
