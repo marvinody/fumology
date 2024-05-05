@@ -156,3 +156,36 @@ body {
 .hidden {
   display: none;
 }
+
+#calendar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+#calendar .month-row, #calendar .header-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+}
+
+
+
+.day {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  border-bottom: 1px solid grey;
+  border-right: 1px solid grey;
+}
+
+.day.empty {
+  background-color: rgb(165, 165, 165);
+}
+
+.month {
+  width: 70px;
+}
