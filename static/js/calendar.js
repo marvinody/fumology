@@ -34,6 +34,7 @@ const renderCalendar = (range) => {
     const monthStart = interval.start;
     const monthEnd = interval.end;
     const monthRowDiv = $('<div>').addClass('month-row');
+    
     const monthDiv = $('<div>').addClass('month').text(monthStart.toLocaleString({month: 'short', }));
     monthRowDiv.append(monthDiv);
 
@@ -50,7 +51,8 @@ const renderCalendar = (range) => {
     }
 
     for (let i = 0; i < DAYS_IN_MONTH; i++) {
-      monthRowDiv.append($('<div>').addClass('day').text(i + 1));
+      const dayText = $('<span>').text(i + 1);
+      monthRowDiv.append($('<div>').addClass('day').append(dayText));
     }
 
     for (let i = 0; i < emptyDayDivsEnd; i++) {
