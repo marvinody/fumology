@@ -258,11 +258,17 @@ body {
   white-space: nowrap;
   background-color: #fff;
   border-radius: 8px;;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
-.event span {
+.event a {
+  text-decoration: none;
+  transition: color .1s linear;
   padding: 0 4px;
+  display: block;
+  background-color: #e81f78;
+  border-color: #e81f78;
+  color:white;
 }
 
 .event:hover {
@@ -277,4 +283,10 @@ body {
 .event.no-end {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
+}
+
+.modal img {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 auto;
 }

@@ -6,6 +6,8 @@ const {
 const dummySales = [
   {
     name: "Test Calendar event",
+    image: "/default.jpg",
+    desc: "This is a test event that spans multiple months and has a long description. This is AI generated text and is not meant to be read by humans.",
     buying: {
       begin: '2024-04-14',
       end: '2024-05-18',
@@ -24,17 +26,25 @@ const dummyEvents = [
         name: sale.name + ' buying',
         start: sale.buying.begin,
         end: sale.buying.end,
+        image: sale.image,
+        desc: sale.desc,
         type: 'sale',
       },
       {
         name: sale.name + ' shipping',
         start: sale.shipping.begin,
         end: sale.shipping.end,
+        image: sale.image,
+        desc: sale.desc,
         type: 'shipping',
       }
     ]
   })
-]
+];
+
+const slugify = (text) => {
+  return text.toLowerCase().replace(/ /g, '-');
+}
 
 
 const findEventsOccuringBetween = (interval) => {
@@ -113,7 +123,6 @@ const renderCalendar = (range) => {
     for (let i = 0; i < DAYS_IN_MONTH; i++) {
       const dayText = $('<span>').text(i + 1);
       const dayDiv = $('<div>').addClass('day').append(dayText);
-      // const eventsToday = findEventsStartingOn(monthStart.plus({days: i}).toISODate());
 
       monthDayContainer.append(dayDiv);
     }
@@ -127,12 +136,18 @@ const renderCalendar = (range) => {
     events.forEach((event, idx) => {
       const eventDiv = $('<div>').addClass('event').addClass(event.type)
       const eventText = $('<span>').text(event.name);
+
+      const eventLink = $('<a>')
+        .attr('rel', 'modal:open')
+        .attr('href', '#' + slugify(event.name))
+        .append(eventText);
+
+      eventDiv.append(eventLink);
     
       const clippedEnd = event.containsEnd ? DateTime.fromISO(event.end) : monthEnd.minus({days: 1});
       const clippedStart = event.containsStart ? DateTime.fromISO(event.start) : monthStart;
       const eventInterval = Interval.fromDateTimes(clippedStart, clippedEnd);
-      
-      eventDiv.append(eventText);
+
       
       const day = clippedStart.day;
       const leftPos = `calc(${(emptyDayDivsStart + day - 1) / DAY_DIV_COUNT * 100}% + 2px)`;
@@ -159,6 +174,21 @@ const renderCalendar = (range) => {
     calendarDiv.append(monthRowDiv);
 
   });
+
+  const modalDiv = $("#modals");
+  modalDiv.empty();
+  dummyEvents.forEach((event) => {
+    const eventDiv = $('<div>').addClass('modal').attr('id', slugify(event.name));
+    const eventTitle = $('<h2>').text(event.name);
+    const eventDesc = $('<p>').text(event.desc);
+    const eventImage = $('<img>').attr('src', event.image);
+    console.log(eventImage);
+    eventDiv.append(eventTitle);
+    eventDiv.append(eventDesc);
+    eventDiv.append(eventImage);
+
+    modalDiv.append(eventDiv);
+  })
 
 }
 
