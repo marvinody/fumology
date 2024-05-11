@@ -256,8 +256,8 @@ body {
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  border-radius: 8px;;
-  /* cursor: pointer; */
+  border-radius: 8px;
+  box-sizing: border-box;
 }
 
 .event a {

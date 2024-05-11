@@ -352,7 +352,7 @@ const renderCalendar = (range) => {
 
       const eventLink = $('<a>')
         .attr('rel', 'modal:open')
-        .attr('href', '#' + slugify(event.name))
+        .attr('href', '#sale-' + event.idx)
         .append(eventText);
 
       eventDiv.addClass(pickColorClass(event.idx));
@@ -392,14 +392,39 @@ const renderCalendar = (range) => {
 
   const modalDiv = $("#modals");
   modalDiv.empty();
-  dummyEvents.forEach((event) => {
-    const eventDiv = $('<div>').addClass('modal').attr('id', slugify(event.name));
+  dummySales.forEach((event, idx) => {
+    const eventDiv = $('<div>').addClass('modal').attr('id', 'sale-' + idx);
     const eventTitle = $('<h2>').text(event.name);
     const eventDesc = $('<p>').text(event.desc);
     const eventImage = $('<img>').attr('src', event.image);
-    console.log(eventImage);
+    const dateDiv = $('<div>')
+
+    const buyingBegin = DateTime.fromISO(event.buying.begin);
+    const buyingEnd = DateTime.fromISO(event.buying.end);
+
+    const now = DateTime.local();
+    const endOfMonth = DateTime.fromISO(event.shipping.end).endOf('month');
+
+    const diff = endOfMonth.diff(now, 'days');    
+  
+    const lateMonthText = `Late ${endOfMonth.monthLong}`;
+    
+    const relativeAway = endOfMonth.toRelative();
+
+
+    const shipText = diff.days < 0 ? `Shipped: ${lateMonthText} (Approximately ${relativeAway})` : `Shipping: ${lateMonthText} (Approximately ${relativeAway})`;
+
+    // Create paragraph elements
+    const buyingDateText = $('<p>').text(`Buying: ${buyingBegin.toLocaleString(DateTime.DATE_FULL)} - ${buyingEnd.toLocaleString(DateTime.DATE_FULL)}`);
+    const shippingDateText = $('<p>').text(shipText);
+
+    dateDiv.append(buyingDateText);
+    dateDiv.append(shippingDateText);
+
+    console.log(event.name)
     eventDiv.append(eventTitle);
     eventDiv.append(eventDesc);
+    eventDiv.append(dateDiv);
     eventDiv.append(eventImage);
 
     modalDiv.append(eventDiv);
@@ -407,4 +432,7 @@ const renderCalendar = (range) => {
 
 }
 
-renderCalendar(initialRange);
+$(document).ready(() => {
+  renderCalendar(initialRange);
+});
+
