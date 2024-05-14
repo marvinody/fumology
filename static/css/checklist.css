@@ -178,7 +178,7 @@ body {
   height: calc(100vh - 64px);
   width: calc(100vw - 64px);
   overflow-y: hidden;
-  margin: 32px 0 0 32px;
+  margin: 8px 0 0 32px;
 }
 
 #calendar .month-row, #calendar .header-row {
@@ -400,4 +400,20 @@ body {
   background-color: #9E9E9E;
   border-color: #9E9E9E;
   color: white;
+}
+
+#header-ui {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
+
+#header-ui .title {
+  flex: 1;
+}
+
+#header-ui .title p {
+  text-align: center;
 }
