@@ -1645,5 +1645,18 @@
         "released": false
       }
     ]
+  }, 
+  {
+    "name": "Daiyousei",
+    "thwiki": "https://en.touhouwiki.net/wiki/Daiyousei",
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9986",
+        "img": "nui9986_01.jpg",
+        "type": "mini",
+        "released": false
+      }
+    ]
   }
 ]
