@@ -402,6 +402,10 @@ body {
   color: white;
 }
 
+.button-group {
+  margin-left:16px;
+}
+
 #header-ui {
   display:flex;
   flex-direction: row;
@@ -416,4 +420,58 @@ body {
 
 #header-ui .title p {
   text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  #calendar {
+
+  }
+
+  #header-ui {
+    flex-direction: column-reverse;
+  }
+
+  #header-ui button {
+    margin: 8px;
+    padding: 8px;
+  }
+
+  .month-days {
+    flex-wrap: wrap;
+  }
+
+  #calendar .header-row {
+    display: none;
+  }
+
+  .day {
+    display: none;
+  }
+
+  #calendar .event {
+    position: unset;
+    width: auto !important; /* !important to override inline style */
+  }
+
+  #calendar .month-row:not(:first-child) {
+    border-top: 1px solid var(--border-color);
+  }
+
+  /* double class to provide higher specificity */
+  #calendar .month-row .month-days.month-days {
+   border-top: none;
+  }
+
+  #calendar .event {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+
+  #calendar .event.no-start {
+    display: none;
+  }
+
+
 }
