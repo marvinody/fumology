@@ -1,12 +1,14 @@
 :root {
-  --border-color: black;
-  --bg-color: #fcc2a9;
+  --border-color: #f1878b;
+  --bg-color: #EEE;
   --action-bg-color: #fde4da;
   --action-active-bg-color: #f9b3a7;
   --char-bg-color: #fde4da;
   --char-checked-bg-color: #88ff8643;
   --char-unreleased-banner-bg-color: rgba(255, 108, 0, 0.7);
   --char-text-banner-bg-color: rgba(0, 0, 0, 0.7);
+  --cal-day-bg-color: #5BCFFB;
+  --cal-day-empty-bg-color: #F5ABB9;
 }
 
 body {
@@ -20,7 +22,7 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  border: 1px solid black;
+  border: 1px solid var(--border-color);
   background-color: var(--action-bg-color);
   position: sticky;
   top: 20px;
@@ -41,7 +43,7 @@ body {
 }
 
 .actions .action:not(:last-child) {
-  border-right: 1px solid #000; /* Adjust as needed */
+  border-right: 1px solid var(--border-color); /* Adjust as needed */
 }
 
 .active.action {
@@ -86,7 +88,7 @@ body {
 
 .char {
   border-radius: 4px;
-  border: 2px solid black;
+  border: 2px solid var(--border-color);
   display: flex;
   flex-direction: column;
   padding: 8px;
@@ -214,8 +216,12 @@ body {
   box-sizing: border-box;
 }
 
+.day {
+  background-color: var(--cal-day-bg-color);
+}
+
 .day.empty {
-  background: #9d9ea6 none repeat scroll 0 0;
+  background: var(--cal-day-empty-bg-color) none repeat scroll 0 0;
 }
 
 #calendar .header-row {
