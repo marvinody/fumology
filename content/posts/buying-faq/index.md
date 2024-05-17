@@ -127,6 +127,16 @@ Gift makes the plushs. Amiami ships them (now).
 
 Amiami used to ship them in the past (pre-2017), and then Gift decided to handle shopping on their Giftshop page (2017-2021). They moved back to Amiami in 2021.
 
+### What is MTO? Will Fumos run out during the sale?
+Short answer: Made-To-Order, stock won't run out during the scheduled sale period.
+
+Long answer:
+
+ We need to begin with some history, old fumo sales used to always have a limited stock, estimated at ~300 fumos per design. The site (gift or amiami) would list them for sale and they would tend to sell out pretty quickly towards the end of this trend. In May 2022, we had our first MTO sale where Gift/Amiami decided they would have pre-orders, see how many they needed to make, and make that amount instead of a known limited quantity ahead of time. 
+
+ This began the golden age of Fumo. Since then, most sales are mainly MTO, exceptions are generally Dekas (the large ones), and plush minis (the really small ones). If you see an upcoming sale and you're unsure, just ask and someone will probably answer. If it's MTO, you don't need to worry about stock running out and can order anytime during the period (and you won't even pay yet!). If the stock is limited, then you should be ready to start refreshing the page as soon as the sale opens to ensure you get your selection.
+
+
 ### Will Amiami ship to me?
 You can check on [their chart](https://support.amiami.com/hc/en-us/articles/360048840471-Available-Shipping-method-table-by-country) if your country is listed.
 
