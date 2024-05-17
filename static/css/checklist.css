@@ -1,14 +1,14 @@
 :root {
-  --border-color: #f1878b;
-  --bg-color: #EEE;
+  --border-color: #444;
+  --bg-color: #FFF;
   --action-bg-color: #fde4da;
   --action-active-bg-color: #f9b3a7;
   --char-bg-color: #fde4da;
   --char-checked-bg-color: #88ff8643;
   --char-unreleased-banner-bg-color: rgba(255, 108, 0, 0.7);
   --char-text-banner-bg-color: rgba(0, 0, 0, 0.7);
-  --cal-day-bg-color: #5BCFFB;
-  --cal-day-empty-bg-color: #F5ABB9;
+  --cal-day-bg-color: #CAFAF8;
+  --cal-day-empty-bg-color: #FFCCF9;
 }
 
 body {
