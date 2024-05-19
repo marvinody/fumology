@@ -64,6 +64,7 @@ Here are some keywords you can use to help you search on the above sites. If you
 - `ふもふも` = "fumofumo"
 - `ハンドメイド ぬいぐるみ 東方` = "handmade plush Touhou"
 - `すくすく` = "sukusuku"
+- `すくすく 白沢` = "sukusuku hakutaku"
 - `ふにふに` = “funifuni”
 - `びっくるみ` = “bikkurumi”
 - `だるぐるみ` = “darugurumi”
