@@ -9,6 +9,7 @@
   --char-text-banner-bg-color: rgba(0, 0, 0, 0.7);
   --cal-day-bg-color: #CAFAF8;
   --cal-day-empty-bg-color: #FFCCF9;
+  --cal-day-today-bg-color: orange;
 }
 
 body {
@@ -222,6 +223,10 @@ body {
 
 .day.empty {
   background: var(--cal-day-empty-bg-color) none repeat scroll 0 0;
+}
+
+.day.today {
+  background: var(--cal-day-today-bg-color) none repeat scroll 0 0;
 }
 
 #calendar .header-row {

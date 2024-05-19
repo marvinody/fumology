@@ -329,6 +329,9 @@ const renderCalendar = (range) => {
     headerRowDiv.append($("<div>").addClass("day-header").text(dayOfWeek));
   }
   calendarDiv.append(headerRowDiv);
+  
+  const today = DateTime.now();
+
 
   Interval.fromDateTimes(start, end)
     .splitBy({ months: 1 })
@@ -358,6 +361,15 @@ const renderCalendar = (range) => {
       for (let i = 0; i < DAYS_IN_MONTH; i++) {
         const dayText = $("<span>").text(i + 1);
         const dayDiv = $("<div>").addClass("day").append(dayText);
+
+        // check if today matches year, month, and day
+        const sameYear = today.year === monthStart.year;
+        const sameMonth = today.month === monthStart.month;
+        const sameDay = today.day === i + 1;
+
+        if (sameYear && sameMonth && sameDay) {
+          dayDiv.addClass("today");
+        }
 
         monthDayContainer.append(dayDiv);
       }
