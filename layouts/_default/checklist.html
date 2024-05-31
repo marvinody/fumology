@@ -20,23 +20,23 @@
       <div class="char-collection">
         
         {{ range $reg := $char.regular }}
-        <!-- {{ warnf "The %s." $reg.img}} -->
+
         {{ partial "char.html" $reg }}
         {{ end }}
         {{ range $reg := $char.straps }}
-        <!-- {{ warnf "The %s." $reg.img}} -->
+
         {{ partial "char.html" $reg }}
         {{ end }}
         {{ range $reg := $char.dekas }}
-        <!-- {{ warnf "The %s." $reg.img}} -->
+
         {{ partial "char.html" $reg }}
         {{ end }}
         {{ range $reg := $char.mannakas }}
-        <!-- {{ warnf "The %s." $reg.img}} -->
+
         {{ partial "char.html" $reg }}
         {{ end }}
         {{ range $reg := $char.puppets }}
-        <!-- {{ warnf "The %s." $reg.img}} -->
+
         {{ partial "char.html" $reg }}
         {{ end }}
       </div>

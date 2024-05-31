@@ -242,12 +242,26 @@ const dummySales = [
       end: "2024-11-30",
     },
   },
+  {
+    name: "Fumo Sale 2024 #4",
+    image: "/images/sales/2024-04.jpg",
+    desc: "Fourth sale of 2024, featuring of Ran, Chen, & Yukari",
+    buying: {
+      begin: "2024-06-06",
+      end: "2024-07-16",
+    },
+    // shipping: {
+    //   begin: "2024-11-20",
+    //   end: "2024-11-30",
+    // },
+  },
 ];
 
 const dummyEvents = [
   ...dummySales.flatMap((sale, idx) => {
-    return [
-      {
+    const events = [];
+    if (sale?.buying) {
+      events.push({
         name: sale.name + " - Buying",
         start: sale.buying.begin,
         end: sale.buying.end,
@@ -255,8 +269,10 @@ const dummyEvents = [
         desc: sale.desc,
         type: "sale",
         idx,
-      },
-      {
+      });
+    }
+    if (sale?.shipping) {
+      events.push({
         name: sale.name + " - Shipping",
         start: sale.shipping.begin,
         end: sale.shipping.end,
@@ -264,8 +280,9 @@ const dummyEvents = [
         desc: sale.desc,
         type: "shipping",
         idx,
-      },
-    ];
+      });
+    }
+    return events;
   }),
 ];
 
@@ -329,9 +346,8 @@ const renderCalendar = (range) => {
     headerRowDiv.append($("<div>").addClass("day-header").text(dayOfWeek));
   }
   calendarDiv.append(headerRowDiv);
-  
-  const today = DateTime.now();
 
+  const today = DateTime.now();
 
   Interval.fromDateTimes(start, end)
     .splitBy({ months: 1 })
@@ -444,30 +460,36 @@ const renderCalendar = (range) => {
     const buyingBegin = DateTime.fromISO(event.buying.begin);
     const buyingEnd = DateTime.fromISO(event.buying.end);
 
-    const now = DateTime.local();
-    const endOfMonth = DateTime.fromISO(event.shipping.end).endOf("month");
-
-    const diff = endOfMonth.diff(now, "days");
-
-    const lateMonthText = `Late ${endOfMonth.monthLong}`;
-
-    const relativeAway = endOfMonth.toRelative();
-
-    const shipText =
-      diff.days < 0
-        ? `Shipped: ${lateMonthText} (Approximately ${relativeAway})`
-        : `Shipping: ${lateMonthText} (Approximately ${relativeAway})`;
-
-    // Create paragraph elements
     const buyingDateText = $("<p>").text(
       `Buying: ${buyingBegin.toLocaleString(
         DateTime.DATE_FULL
       )} - ${buyingEnd.toLocaleString(DateTime.DATE_FULL)}`
     );
-    const shippingDateText = $("<p>").text(shipText);
-
     dateDiv.append(buyingDateText);
-    dateDiv.append(shippingDateText);
+
+    const now = DateTime.local();
+    if(event?.shipping) {
+      const endOfMonth = DateTime.fromISO(event.shipping.end).endOf("month");
+
+      const diff = endOfMonth.diff(now, "days");
+  
+      const lateMonthText = `Late ${endOfMonth.monthLong}`;
+  
+      const relativeAway = endOfMonth.toRelative();
+  
+      const shipText =
+        diff.days < 0
+          ? `Shipped: ${lateMonthText} (Approximately ${relativeAway})`
+          : `Shipping: ${lateMonthText} (Approximately ${relativeAway})`;
+  
+      const shippingDateText = $("<p>").text(shipText);
+  
+      
+      dateDiv.append(shippingDateText);
+    } else {
+      dateDiv.append($("<p>").text("Shipping: TBA"));
+    }
+ 
 
     eventDiv.append(eventTitle);
     eventDiv.append(eventDesc);
@@ -490,7 +512,7 @@ const renderHeaderUI = () => {
         year: "numeric",
       })} - ${range.end.toLocaleString({ month: "long", year: "numeric" })}]`
     );
-  }
+  };
 
   updateHeaderTitle(currentRange);
   const buttonDiv = $("<div>").addClass("button-group");
@@ -503,7 +525,7 @@ const renderHeaderUI = () => {
       );
       currentRange = newRange;
       renderCalendar(newRange);
-      updateHeaderTitle(currentRange)
+      updateHeaderTitle(currentRange);
     });
   const nextButton = $("<button>")
     .text(">")
