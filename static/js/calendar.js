@@ -186,7 +186,7 @@ const dummySales = [
       end: "2023-12-11",
     },
     shipping: {
-      begin: "2024-06-15",
+      begin: "2024-06-19",
       end: "2024-06-30",
     },
   },
