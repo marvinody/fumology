@@ -199,8 +199,8 @@ const dummySales = [
       end: "2024-01-10",
     },
     shipping: {
-      begin: "2024-07-10",
-      end: "2024-07-31",
+      begin: "2024-07-30",
+      end: "2024-08-14",
     },
   },
   {
@@ -250,10 +250,23 @@ const dummySales = [
       begin: "2024-06-06",
       end: "2024-07-16",
     },
-    // shipping: {
-    //   begin: "2024-11-20",
-    //   end: "2024-11-30",
-    // },
+    shipping: {
+      begin: "2025-01-20",
+      end: "2025-01-30",
+    },
+  },
+  {
+    name: "Fumo Sale 2024 #5",
+    image: "/images/sales/2024-05.jpg",
+    desc: "Fifth sale of 2024, featuring Mannaka Satori & Koishi ",
+    buying: {
+      begin: "2024-07-25",
+      end: "2024-08-28",
+    },
+    shipping: {
+      begin: "2025-03-20",
+      end: "2025-03-30",
+    },
   },
 ];
 
