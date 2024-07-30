@@ -482,22 +482,19 @@ const renderCalendar = (range) => {
 
     const now = DateTime.local();
     if(event?.shipping) {
-      const endOfMonth = DateTime.fromISO(event.shipping.end).endOf("month");
+      const shippingEndDate = DateTime.fromISO(event.shipping.end);
 
-      const diff = endOfMonth.diff(now, "days");
-  
-      const lateMonthText = `Late ${endOfMonth.monthLong}`;
-  
-      const relativeAway = endOfMonth.toRelative();
+      const diff = shippingEndDate.diff(now, "days");
+    
+      const relativeAway = shippingEndDate.toRelative();
   
       const shipText =
         diff.days < 0
-          ? `Shipped: ${lateMonthText} (Approximately ${relativeAway})`
-          : `Shipping: ${lateMonthText} (Approximately ${relativeAway})`;
+          ? `Shipped: ${shippingEndDate.toLocaleString(DateTime.DATE_FULL)} (Approximately ${relativeAway})`
+          : `Shipping: ${shippingEndDate.toLocaleString(DateTime.DATE_FULL)} (Approximately ${relativeAway})`;
   
       const shippingDateText = $("<p>").text(shipText);
   
-      
       dateDiv.append(shippingDateText);
     } else {
       dateDiv.append($("<p>").text("Shipping: TBA"));
