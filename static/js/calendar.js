@@ -482,7 +482,7 @@ const renderCalendar = (range) => {
 
     const now = DateTime.local();
     if(event?.shipping) {
-      const shippingEndDate = DateTime.fromISO(event.shipping.end);
+      const shippingEndDate = DateTime.fromISO(event.shipping.begin);
 
       const diff = shippingEndDate.diff(now, "days");
     
