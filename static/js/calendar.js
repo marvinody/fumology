@@ -490,8 +490,8 @@ const renderCalendar = (range) => {
   
       const shipText =
         diff.days < 0
-          ? `Shipped: ${shippingEndDate.toLocaleString(DateTime.DATE_FULL)} (Approximately ${relativeAway})`
-          : `Shipping: ${shippingEndDate.toLocaleString(DateTime.DATE_FULL)} (Approximately ${relativeAway})`;
+          ? `Invoices began on: ${shippingEndDate.toLocaleString(DateTime.DATE_FULL)} (Approximately ${relativeAway})`
+          : `Invoices begin on: ${shippingEndDate.toLocaleString(DateTime.DATE_FULL)} (Approximately ${relativeAway})`;
   
       const shippingDateText = $("<p>").text(shipText);
   
