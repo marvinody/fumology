@@ -13,8 +13,6 @@ A lot of this detail will have bene lifted from the #custom-fumo-hub on the [dis
 
 Credit is attempted to be given when possible, but let us know if we made a mistake and we'll update it.
 
-Fill out a general FAQ here of maybe 
-
 
 ## Resources / Files
 
@@ -27,6 +25,7 @@ Various patterns or text guides that people have shared on the Discord or elsewh
   - Torso sewing guide
   - Material Lists
   - Face embroidery files
+  - [Fumo Face Maker](https://fumo-face-maker.vercel.app/) - generate face embroidery files using a great UI and download the .PES
 - [Albinokoi](/posts/custom-guides-directory/albinokoi)
   - Deconstruction guide
   - Hair + skirt guide
