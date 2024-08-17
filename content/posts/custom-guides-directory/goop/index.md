@@ -38,7 +38,8 @@ Small image guide for how to take a measurement of an object without completely 
 
 ## Fumo Pattern
 
-Here's a [6 page PDF](Fumo_pattern_full-1.pdf) (30 MB) with lots of detail. The pictures below are PNG for a quick reference, but if you're gonna print it out, use the PDF instead.
+Here's a {{< download "Fumo_pattern_full-1.pdf" "6 page PDF" >}}
+ (30 MB) with lots of detail. The pictures below are PNG for a quick reference, but if you're gonna print it out, use the PDF instead.
 
 {{< figure src="./Fumo_pattern_full_goop-1.png" link="./Fumo_pattern_full_goop-1.png" >}}
 
