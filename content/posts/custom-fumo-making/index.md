@@ -51,6 +51,8 @@ Various patterns or text guides that people have shared on the Discord or elsewh
   - Assembly guide
 - [sailinyumemi](/posts/custom-guides-directory/chiyurisoup) (Chiyuri Soup)
   - Inu Sakuya Fumo pattern
+- [levobertus](/posts/custom-guides-directory/levobertus)
+  - Skirt & Jacket patterns that work with Royalty's design
 
 ### Videos
 - [How to make plushies](https://youtu.be/azJNxt9J_gA) - General overview of the process as a whole, good to watch if you've never sewn in your life.
