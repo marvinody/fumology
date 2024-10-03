@@ -268,6 +268,19 @@ const dummySales = [
       end: "2025-03-30",
     },
   },
+  {
+    name: "Fumo Sale 2024 #6",
+    image: "/images/sales/2024-06.jpg",
+    desc: "Sixth sale of 2024, featuring Hecc, Okina, Chimata, Hina & Nazrin ",
+    buying: {
+      begin: "2024-10-21",
+      end: "2024-11-25",
+    },
+    shipping: {
+      begin: "2025-06-20",
+      end: "2025-06-30",
+    },
+  },
 ];
 
 const dummyEvents = [
