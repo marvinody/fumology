@@ -47,6 +47,7 @@ Various patterns or text guides that people have shared on the Discord or elsewh
   - How to Leg (leg guide)
 - [Toshiphus](/posts/custom-guides-directory/tosiphus)
   - Fumo video tutorial
+  - Suku Patterns & Eye PES files
 - [Feldengruskt](/posts/custom-guides-directory/feldengruskt)
   - Assembly guide
 - [sailinyumemi](/posts/custom-guides-directory/chiyurisoup) (Chiyuri Soup)
