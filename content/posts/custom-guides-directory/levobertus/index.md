@@ -1,6 +1,6 @@
 ---
 title: "levobertus | Custom Guides"
-date: 2024-10-03T23:42:19-04:00
+date: 2024-10-02T23:42:19-04:00
 draft: false
 tags: [diy, custom]
 
@@ -10,6 +10,6 @@ tags: [diy, custom]
 
 ## Skirt & Jacket Pattern
 
-{{< figure src="./V1_Jacket_A4.pdf" link="./V1_Jacket_A4.pdf" >}}
+{{< figure src="/images/pdf_icon.jpg" link="./V1_Jacket_A4.pdf" title="V1 Jacket" >}}
 
-{{< figure src="./V1_Skirt_A4.pdf" link="./V1_Skirt_A4.pdf" >}}
+{{< figure src="/images/pdf_icon.jpg" link="./V1_Skirt_A4.pdf" title="V1 Skirt" >}}
