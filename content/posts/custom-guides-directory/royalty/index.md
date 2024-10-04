@@ -15,7 +15,9 @@ tags: [diy, custom]
 
 {{< figure src="./FumoPatternV1.1-2.png" link="./FumoPatternV1.1-2.png" >}}
 
-[Direct link to PDF](./FumoPatternV1.1y-1.pdf). You are recommended to use the PDF to print to ensure the sizing is correct. The outer edge is a 1/8th inch seam allowance for all parts.
+{{< figure src="/images/pdf_icon.jpg" link="./FumoPatternV1.1y-1.pdf" title="Fumo Pattern">}}
+
+You are recommended to use the PDF to print to ensure the sizing is correct. The outer edge is a 1/8th inch seam allowance for all parts.
 
 The little notches are for aligning the pieces together after cutting.
 

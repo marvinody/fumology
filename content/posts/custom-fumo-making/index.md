@@ -1,6 +1,6 @@
 ---
 title: "Custom Fumo Making"
-date: 2024-03-29T01:42:19-04:00
+date: 2024-03-29T01:43:19-04:00
 draft: false
 tags: [diy, custom, protofumo, fumology]
 summary: "A collection of custom plush making tidbits from our community and beyond."
@@ -47,10 +47,13 @@ Various patterns or text guides that people have shared on the Discord or elsewh
   - How to Leg (leg guide)
 - [Toshiphus](/posts/custom-guides-directory/tosiphus)
   - Fumo video tutorial
+  - Suku Patterns & Eye PES files
 - [Feldengruskt](/posts/custom-guides-directory/feldengruskt)
   - Assembly guide
 - [sailinyumemi](/posts/custom-guides-directory/chiyurisoup) (Chiyuri Soup)
   - Inu Sakuya Fumo pattern
+- [levobertus](/posts/custom-guides-directory/levobertus/)
+  - Skirt & Jacket patterns that work with Royalty's design
 
 ### Videos
 - [How to make plushies](https://youtu.be/azJNxt9J_gA) - General overview of the process as a whole, good to watch if you've never sewn in your life.
