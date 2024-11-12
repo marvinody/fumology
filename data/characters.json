@@ -267,7 +267,6 @@
       },
       {
         "name": "Lost Word Vampire Hunter Version",
-        "released": false,
         "id": "9999",
         "img": "nui9999_01.jpg"
       }
@@ -421,6 +420,12 @@
         "img": "nui992_01.jpg",
         "release_dates": [2022],
         "link": "https://www.gift-gift.jp/nui/nui992.html"
+      }, 
+      {
+        "name": "Lost Word Elemental Wizard Version",
+        "id": "9983",
+        "img": "nui9983_01.jpg",
+        "released": false
       }
     ],
     "straps": [
@@ -605,6 +610,12 @@
         "img": "nui290_01.jpg",
         "release_dates": [2014, 2019, 2020, 2022],
         "link": "https://www.gift-gift.jp/nui/nui290.html"
+      }, 
+      {
+        "name": "Lost Word Human-Deity Duality Version",
+        "id": "9981",
+        "img": "nui9981_01.jpg",
+        "released": false
       }
     ],
     "straps": [
@@ -634,7 +645,15 @@
         "type": "deka"
       }
     ],
-    "mannakas": []
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "9980",
+        "img": "nui9980_01.jpg",
+        "type": "mannaka",
+        "released": false
+      }
+    ]
   },
   {
     "name": "Cirno",
@@ -707,8 +726,7 @@
         "name": "Tanned Version",
         "id": "9991",
         "img": "nui9991_01.jpg",
-        "type": "mannaka",
-        "released": false
+        "type": "mannaka"
       }
     ]
   },
@@ -739,7 +757,13 @@
         "type": "mini"
       }
     ],
-    "mannakas": []
+    "mannakas": [{
+      "name": "Version 1",
+      "id": "9979",
+      "img": "nui9979_01.jpg",
+      "type": "mannaka",
+      "released": false
+    }]
   },
   {
     "name": "Konpaku Youmu",
@@ -765,6 +789,12 @@
         "img": "nui918.jpg",
         "release_dates": [2022],
         "link": "https://www.gift-gift.jp/nui/nui918.html"
+      },
+      {
+        "name": "Kourindou Version",
+        "id": "9975",
+        "img": "nui9975_01.jpg",
+        "released": false
       }
     ],
     "dekas": [
@@ -817,8 +847,7 @@
       {
         "name": "Lost Word Little Ghost Version",
         "id": "9997",
-        "img": "nui9997_01.jpg",
-        "released": false
+        "img": "nui9997_01.jpg"
       }
     ],
     "dekas": [
@@ -990,6 +1019,12 @@
         "img": "nui139_01.jpg",
         "release_dates": [2011, 2016, 2018, 2020, 2021, 2023],
         "link": "https://www.gift-gift.jp/nui/nui139.html"
+      }, 
+      {
+        "name": "Lost Word Blue Phoenix Version",
+        "id": "9982",
+        "img": "nui9982_01.jpg",
+        "released": false
       }
     ],
     "straps": [
@@ -1059,8 +1094,7 @@
       {
         "name": "Lost Word Spontaneous White Beauty Version",
         "id": "9998",
-        "img": "nui9998_01.jpg",
-        "released": false
+        "img": "nui9998_01.jpg"
       }
     ],
     "straps": [
@@ -1328,8 +1362,7 @@
         "name": "Plush Strap",
         "id": "9989",
         "img": "nui9989_01.jpg",
-        "type": "mini",
-        "released": false
+        "type": "mini"
       }
     ],
     "mannakas": []
@@ -1386,6 +1419,15 @@
         "img": "nui899_01.jpg",
         "release_dates": [2022],
         "link": "https://www.gift-gift.jp/nui/nui899.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9977",
+        "img": "nui9977_01.jpg",
+        "type": "mini",
+        "released": false
       }
     ],
     "mannakas": []
@@ -1467,6 +1509,15 @@
         "link": "https://www.gift-gift.jp/nui/nui974.html"
       }
     ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9978",
+        "img": "nui9978_01.jpg",
+        "type": "mini",
+        "released": false
+      }
+    ],
     "mannakas": []
   },
   {
@@ -1478,6 +1529,15 @@
         "id": "973",
         "img": "nui973_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui973.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9976",
+        "img": "nui9976_01.jpg",
+        "type": "mini",
+        "released": false
       }
     ],
     "mannakas": []
@@ -1581,8 +1641,7 @@
         "name": "Plush Strap",
         "id": "9988",
         "img": "nui9988_01.jpg",
-        "type": "mini",
-        "released": false
+        "type": "mini"
       }
     ]
   },
@@ -1593,8 +1652,7 @@
       {
         "name": "Version 1",
         "id": "9992",
-        "img": "nui9992_01.jpg",
-        "released": false
+        "img": "nui9992_01.jpg"
       }
     ]
   },
@@ -1605,8 +1663,7 @@
       {
         "name": "Version 1",
         "id": "9993",
-        "img": "nui9993_01.jpg",
-        "released": false
+        "img": "nui9993_01.jpg"
       }
     ]
   },
@@ -1617,8 +1674,7 @@
       {
         "name": "Version 1",
         "id": "9994",
-        "img": "nui9994_01.jpg",
-        "released": false
+        "img": "nui9994_01.jpg"
       }
     ]
   },
@@ -1629,8 +1685,7 @@
       {
         "name": "Version 1",
         "id": "9995",
-        "img": "nui9995_01.jpg",
-        "released": false
+        "img": "nui9995_01.jpg"
       }
     ]
   },
@@ -1641,8 +1696,7 @@
       {
         "name": "Version 1",
         "id": "9996",
-        "img": "nui9996_01.jpg",
-        "released": false
+        "img": "nui9996_01.jpg"
       }
     ]
   }, 
@@ -1654,7 +1708,28 @@
         "name": "Plush Strap",
         "id": "9986",
         "img": "nui9986_01.jpg",
-        "type": "mini",
+        "type": "mini"
+      }
+    ]
+  }, {
+    "name": "Byakuren Hijiri",
+    "thwiki": "https://en.touhouwiki.net/wiki/Byakuren_Hijiri",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9985",
+        "img": "nui9985_01.jpg",
+        "released": false
+      }
+    ]
+  }, {
+    "name": "Yuuma Toutetsu",
+    "thwiki": "https://en.touhouwiki.net/wiki/Yuuma_Toutetsu",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9984",
+        "img": "nui9984_01.jpg",
         "released": false
       }
     ]
