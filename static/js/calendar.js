@@ -281,6 +281,32 @@ const dummySales = [
       end: "2025-06-30",
     },
   },
+  {
+    name: "Fumo Sale 2024 #7",
+    image: "/images/sales/2024-07.jpg",
+    desc: "Mannaka only MTO sale of 2024, featuring Cirno and Tan Cirno",
+    buying: {
+      begin: "2024-11-01",
+      end: "2024-11-25",
+    },
+    shipping: {
+      begin: "2025-07-20",
+      end: "2025-07-30",
+    },
+  },
+  {
+    name: "Fumo Sale 2024 #8",
+    image: "/images/sales/2024-08.jpg",
+    desc: "Eighth sale of 2024, featuring new Kourindou Youmu with resale of Kourindou Reimu & Marisa",
+    buying: {
+      begin: "2024-11-22",
+      end: "2024-12-23",
+    },
+    shipping: {
+      begin: "2025-07-20",
+      end: "2025-07-30",
+    },
+  },
 ];
 
 const dummyEvents = [
