@@ -374,13 +374,28 @@ let currentRange = initialRange;
 
 const MONTH_WIDTH = 70;
 
+// generally, this will be 36, but in some cases it can be 37
+// this is just to know how many empty start and end divs to add to pad everything
+const determineMaxDayCount = (start, end) => {
+  let maxDayCount = 0;
+  Interval.fromDateTimes(start, end)
+    .splitBy({ months: 1 })
+    .forEach((interval) => {
+      const daysInMonth = interval.start.daysInMonth;
+      const dayOfWeek = interval.start.weekday % 7;
+      maxDayCount = Math.max(maxDayCount, daysInMonth + dayOfWeek);
+    });
+
+    return maxDayCount;
+}
+
 const renderCalendar = (range) => {
   const start = range.start.startOf("month");
   const end = range.end.endOf("month");
 
   const calendarDiv = $("#calendar");
   calendarDiv.empty();
-  const DAY_DIV_COUNT = 36;
+  const DAY_DIV_COUNT = determineMaxDayCount(start, end);
 
   // add header row
   const headerRowDiv = $("<div>").addClass("header-row");
