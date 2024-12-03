@@ -282,6 +282,19 @@ const dummySales = [
     },
   },
   {
+    name: "Fumo Sale 2024 #7.5",
+    image: "/images/sales/2024-07-5.jpg",
+    desc: "Seventh sale of 2024, featuring Lostword variants of Yuyuko, Sakuya, and Koishi",
+    buying: {
+      begin: "2024-07-05",
+      end: "2024-08-28",
+    },
+    shipping: {
+      begin: "2025-02-14",
+      end: "2025-02-28",
+    },
+  },
+  {
     name: "Fumo Sale 2024 #7",
     image: "/images/sales/2024-07.jpg",
     desc: "Mannaka only MTO sale of 2024, featuring Cirno and Tan Cirno",
