@@ -9,7 +9,7 @@ summary: "A collection of custom plush making tidbits from our community and bey
 
 # Custom Fumo Hub
 
-A lot of this detail will have bene lifted from the #custom-fumo-hub on the [discord](https://discord.gg/fumofumo) so if you have any questions or need help, there's lots of creators there who can try to help you in making a soft new friend.
+A lot of this detail will have been lifted from the #custom-fumo-hub on the [discord](https://discord.gg/fumofumo) so if you have any questions or need help, there's lots of creators there who can try to help you in making a soft new friend.
 
 Credit is attempted to be given when possible, but let us know if we made a mistake and we'll update it.
 
