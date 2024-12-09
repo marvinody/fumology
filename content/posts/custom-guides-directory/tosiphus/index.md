@@ -22,6 +22,8 @@ You'll need embroidery software to use the following files
 {{< figure src="/images/pes_icon.png" link="./suku_smile.pes" title="Suku Smile">}}
 
 
-## Video Guide
+## Video Guides
 
 {{< youtube i0XkmNt8LEY >}}
+
+{{< youtube IVHLZ4N0Z4A >}}
