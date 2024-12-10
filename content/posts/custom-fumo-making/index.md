@@ -76,6 +76,8 @@ A list of embroidery files or guides on how to do hand embroidery.
   - [Materials to use for Fumo Making](/posts/custom-guides-directory/sarto/#materials-to-use-for-fumo-making)
 - [Gasto_projecteur](/posts/custom-guides-directory/goop) (Goop)
   - [Materials to use for Fumo Making](/posts/custom-guides-directory/goop/#material-list)
+- [mimoji](/posts/custom-guides-directory/mimoji/)
+  - [Hopen Color Swatch](/posts/custom-guides-directory/mimoji/#hopen-textiles-color-palette)
 
 ## Misc
 
@@ -106,6 +108,7 @@ Miscellaneous but helpful guides.
 - [levobertus](/posts/custom-guides-directory/levobertus/)
 - [roostingflygon](/posts/custom-guides-directory/roostingflygon/)
 - [kokocorp](/posts/custom-guides-directory/kokocorp/)
+- [mimoji](/posts/custom-guides-directory/mimoji/)
 
 ### Videos
 
