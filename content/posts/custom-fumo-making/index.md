@@ -69,7 +69,8 @@ A list of embroidery files or guides on how to do hand embroidery.
   - [Hand Embroidery Tutorial](https://www.reddit.com/r/Fumofumo/comments/174ur76/i_made_a_hand_embroidery_face_guide_for_those_who/)
 - [Toshiphus](/posts/custom-guides-directory/tosiphus)
   - [Sukusuku Embroidery Files](/posts/custom-guides-directory/tosiphus/#suku-embroidery)
-
+- [dyki_a](/posts/custom-guides-directory/dyki_a/)
+  - [Sukusuku Embroidery Files](posts/custom-guides-directory/dyki_a/#suku-embroidery-patterns)
 ## Materials
 
 - [Sarto](/posts/custom-guides-directory/sarto/)
@@ -109,6 +110,7 @@ Miscellaneous but helpful guides.
 - [roostingflygon](/posts/custom-guides-directory/roostingflygon/)
 - [kokocorp](/posts/custom-guides-directory/kokocorp/)
 - [mimoji](/posts/custom-guides-directory/mimoji/)
+- [dyki_a](/posts/custom-guides-directory/dyki_a/)
 
 ### Videos
 
