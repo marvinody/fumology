@@ -17,9 +17,9 @@ Make sure you're printing the PDFs on A4 paper or 8.5x11"
 
 ## Suku Embroidery
 You'll need embroidery software to use the following files
-{{< figure src="/images/pes_icon.png" link="./suku_eyes_normal.pes" title="Suku Eyes Normal">}}
-{{< figure src="/images/pes_icon.png" link="./suku_eyes_stinker.pes" title="Suku Eyes Stinker">}}
-{{< figure src="/images/pes_icon.png" link="./suku_smile.pes" title="Suku Smile">}}
+{{< figure src="./suku_eyes_normal.pes.png" link="./suku_eyes_normal.pes" >}}
+{{< figure src="./suku_eyes_stinker.pes.png" link="./suku_eyes_stinker.pes" >}}
+{{< figure src="./suku_smile.pes.png" link="./suku_smile.pes" >}}
 
 
 ## Video Guides
