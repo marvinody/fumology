@@ -78,7 +78,7 @@ A list of embroidery files or guides on how to do hand embroidery.
 - [Gasto_projecteur](/posts/custom-guides-directory/goop) (Goop)
   - [Materials to use for Fumo Making](/posts/custom-guides-directory/goop/#material-list)
 - [mimoji](/posts/custom-guides-directory/mimoji/)
-  - [Hopen Color Swatch](/posts/custom-guides-directory/mimoji/#hopen-textiles-color-palette)
+  - [Toyknit Hopen Color Swatch](/posts/custom-guides-directory/mimoji/#hopen-textiles-color-palette)
 
 ## Misc
 
