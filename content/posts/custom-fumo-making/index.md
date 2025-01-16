@@ -64,7 +64,7 @@ A list of embroidery files or guides on how to do hand embroidery.
 
 - [Sarto](/posts/custom-guides-directory/sarto/)
   - [Fumo Face Embroidery Files](/posts/custom-guides-directory/sarto/#fumo-face-embroidery-files)
-  - [Fumo Face Maker](https://fumo-face-maker.vercel.app/)
+  - [Fumo Face Maker](https://fumofacemaker.sarto.dev/)
 - /u/aragon_lediagon (Reddit)
   - [Hand Embroidery Tutorial](https://www.reddit.com/r/Fumofumo/comments/174ur76/i_made_a_hand_embroidery_face_guide_for_those_who/)
 - [Toshiphus](/posts/custom-guides-directory/tosiphus)
