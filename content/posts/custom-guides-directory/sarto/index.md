@@ -10,7 +10,7 @@ tags: [diy, custom]
 - [@sartouhou (Instagram)](https://www.instagram.com/sartouhou/)
 
 ## Embroidery Face Generator
-[Fumo Face Maker](https://fumo-face-maker.vercel.app/) - Site that lets you generate face embroidery files using a great UI and download the .PES to use in your embroidery machine
+[Fumo Face Maker](https://fumofacemaker.sarto.dev/) - Site that lets you generate face embroidery files using a great UI and download the .PES to use in your embroidery machine
 
 
 ## Materials to use for Fumo Making
