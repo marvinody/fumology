@@ -28,6 +28,8 @@ Lastly, enjoy the process as always!
 
 {{< figure src="./skirt-guide.jpg" link="./skirt-guide.jpg" >}}
 
+[Cone Pattern Maker](https://www.blocklayer.com/cone-patterns) in clickable form
+
 
 ## Hair Guide
 {{< figure src="./hair-guide.png" link="./hair-guide.png" >}}

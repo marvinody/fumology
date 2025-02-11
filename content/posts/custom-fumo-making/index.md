@@ -86,6 +86,7 @@ Miscellaneous but helpful guides.
 
 - [Albinokoi](/posts/custom-guides-directory/albinokoi)
   - [Deconstructing + Reverse Engineering a plush](/posts/custom-guides-directory/albinokoi/#deconstructing--reverse-enginerring-a-plush)
+  - [Cone/Skirt Pattern Maker](https://www.blocklayer.com/cone-patterns)
 - [Royalty](/posts/custom-guides-directory/royalty)
   - [Button Template](/posts/custom-guides-directory/royalty/#button-template)
 - [kokocorp](/posts/custom-guides-directory/kokocorp/)
