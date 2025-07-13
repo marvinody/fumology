@@ -424,8 +424,7 @@
       {
         "name": "Lost Word Elemental Wizard Version",
         "id": "9983",
-        "img": "nui9983_01.jpg",
-        "released": false
+        "img": "nui9983_01.jpg"
       }
     ],
     "straps": [
@@ -614,8 +613,7 @@
       {
         "name": "Lost Word Human-Deity Duality Version",
         "id": "9981",
-        "img": "nui9981_01.jpg",
-        "released": false
+        "img": "nui9981_01.jpg"
       }
     ],
     "straps": [
@@ -650,8 +648,7 @@
         "name": "Version 1",
         "id": "9980",
         "img": "nui9980_01.jpg",
-        "type": "mannaka",
-        "released": false
+        "type": "mannaka"
       }
     ]
   },
@@ -686,6 +683,12 @@
         "img": "nui559_01.jpg",
         "release_dates": [2018, 2019, 2022],
         "link": "https://www.gift-gift.jp/nui/nui559.html"
+      },
+      {
+        "name": "Hisouten Version",
+        "id": 1184,
+        "img": "nui1184_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1184.html"
       }
     ],
     "straps": [
@@ -761,8 +764,7 @@
       "name": "Version 1",
       "id": "9979",
       "img": "nui9979_01.jpg",
-      "type": "mannaka",
-      "released": false
+      "type": "mannaka"
     }]
   },
   {
@@ -793,8 +795,7 @@
       {
         "name": "Kourindou Version",
         "id": "9975",
-        "img": "nui9975_01.jpg",
-        "released": false
+        "img": "nui9975_01.jpg"
       }
     ],
     "dekas": [
@@ -1023,8 +1024,7 @@
       {
         "name": "Lost Word Blue Phoenix Version",
         "id": "9982",
-        "img": "nui9982_01.jpg",
-        "released": false
+        "img": "nui9982_01.jpg"
       }
     ],
     "straps": [
@@ -1048,6 +1048,12 @@
         "img": "nui196_01.jpg",
         "release_dates": [2012, 2013, 2015, 2016, 2017, 2018, 2020, 2022],
         "link": "https://www.gift-gift.jp/nui/nui196.html"
+      },
+      {
+        "name": "Yukkuri Version",
+        "id": "1122",
+        "img": "nui1122_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1122.html"
       }
     ],
     "straps": [
@@ -1078,6 +1084,15 @@
         "link": "https://www.gift-gift.jp/nui/nui940.html",
         "type": "mannaka"
       }
+    ],
+    "ichinana": [
+      {
+        "name": "Ichinana",
+        "id": "1182",
+        "img": "nui1182_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1182.html",
+        "type": "ichinana"
+      }
     ]
   },
   {
@@ -1095,6 +1110,12 @@
         "name": "Lost Word Spontaneous White Beauty Version",
         "id": "9998",
         "img": "nui9998_01.jpg"
+      },
+      {
+        "name": "Yukkuri Version",
+        "id": "1123",
+        "img": "nui1123_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1123.html"
       }
     ],
     "straps": [
@@ -1124,6 +1145,15 @@
         "img": "nui941_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui941.html",
         "type": "mannaka"
+      }
+    ],
+    "ichinana": [
+      {
+        "name": "Ichinana",
+        "id": "1183",
+        "img": "nui1183_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1183.html",
+        "type": "ichinana"
       }
     ]
   },
@@ -1155,7 +1185,15 @@
         "type": "mini"
       }
     ],
-    "mannakas": []
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "1115",
+        "img": "nui1115_01.jpg",
+        "link": "https://www.gift-gift.jp/nui/nui1115.html",
+        "type": "mannaka"
+      }
+    ]
   },
   {
     "name": "Inaba Tewi",
@@ -1247,8 +1285,7 @@
         "name": "Version 1",
         "id": "9990",
         "img": "nui9990_01.jpg",
-        "type": "mannaka",
-        "released": false
+        "type": "mannaka"
       }
     ]
   },
@@ -1426,8 +1463,7 @@
         "name": "Plush Strap",
         "id": "9977",
         "img": "nui9977_01.jpg",
-        "type": "mini",
-        "released": false
+        "type": "mini"
       }
     ],
     "mannakas": []
@@ -1514,8 +1550,7 @@
         "name": "Plush Strap",
         "id": "9978",
         "img": "nui9978_01.jpg",
-        "type": "mini",
-        "released": false
+        "type": "mini"
       }
     ],
     "mannakas": []
@@ -1536,8 +1571,7 @@
         "name": "Plush Strap",
         "id": "9976",
         "img": "nui9976_01.jpg",
-        "type": "mini",
-        "released": false
+        "type": "mini"
       }
     ],
     "mannakas": []
@@ -1718,8 +1752,7 @@
       {
         "name": "Version 1",
         "id": "9985",
-        "img": "nui9985_01.jpg",
-        "released": false
+        "img": "nui9985_01.jpg"
       }
     ]
   }, {
@@ -1729,8 +1762,7 @@
       {
         "name": "Version 1",
         "id": "9984",
-        "img": "nui9984_01.jpg",
-        "released": false
+        "img": "nui9984_01.jpg"
       }
     ]
   }
