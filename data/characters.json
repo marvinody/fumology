@@ -707,7 +707,7 @@
         "id": 1184,
         "img": "nui1184_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui1184.html",
-        "released": "false"
+        "released": false
       }
     ],
     "straps": [
@@ -953,7 +953,7 @@
         "id": "9967",
         "img": "nui9967_01.jpg",
         "type": "mannaka",
-        "released": "false"
+        "released": false
       }
     ]
   },
@@ -991,7 +991,7 @@
         "id": "9968",
         "img": "nui9968_01.jpg",
         "type": "mannaka",
-        "released": "false"
+        "released": false
       }
     ]
   },
@@ -1035,7 +1035,7 @@
         "id": "9969",
         "img": "nui9969_01.jpg",
         "type": "mannaka",
-        "released": "false"
+        "released": false
       }
     ]
   },
@@ -1293,7 +1293,7 @@
         "id": "9964",
         "img": "nui9964_01.jpg",
         "type": "mini",
-        "released": "false"
+        "released": false
       }
     ],
     "mannakas": []
@@ -1396,7 +1396,7 @@
         "id": "9966",
         "img": "nui9966_01.jpg",
         "type": "mini",
-        "released": "false"
+        "released": false
       }
     ],
     "mannakas": []
@@ -1419,7 +1419,7 @@
         "id": "9963",
         "img": "nui9963_01.jpg",
         "type": "mini",
-        "released": "false"
+        "released": false
       }
     ],
     "mannakas": []
@@ -1520,7 +1520,7 @@
         "id": "9965",
         "img": "nui9965_01.jpg",
         "type": "mini",
-        "released": "false"
+        "released": false
       }
     ],
     "mannakas": []
@@ -1754,7 +1754,7 @@
         "name": "Version 1",
         "id": "9970",
         "img": "nui9970_01.jpg",
-        "released": "false"
+        "released": false
       }
     ],
     "straps": [
@@ -1829,7 +1829,7 @@
         "name": "Version 1",
         "id": "9971",
         "img": "nui9971_01.jpg",
-        "released": "false"
+        "released": false
       }
     ],
     "straps": [
@@ -1869,7 +1869,7 @@
         "name": "Version 1",
         "id": "9972",
         "img": "nui9972_01.jpg",
-        "released": "false"
+        "released": false
       }
     ]
   },
@@ -1881,7 +1881,7 @@
         "name": "Version 1",
         "id": "9973",
         "img": "nui9973_01.jpg",
-        "released": "false"
+        "released": false
       }
     ]
   },
@@ -1893,7 +1893,7 @@
         "name": "Version 1",
         "id": "9974",
         "img": "nui9974_01.jpg",
-        "released": "false"
+        "released": false
       }
     ]
   }
