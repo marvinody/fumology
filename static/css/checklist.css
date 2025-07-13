@@ -169,6 +169,10 @@ body {
   content: "mannaka";
 }
 
+.char.ichinana::after {
+  content: "ichinana";
+}
+
 .hidden {
   display: none;
 }
