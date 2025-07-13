@@ -269,6 +269,12 @@
         "name": "Lost Word Vampire Hunter Version",
         "id": "9999",
         "img": "nui9999_01.jpg"
+      },
+      {
+        "name": "Yukkuri Version",
+        "id": "9961",
+        "img": "nui9961_01.jpg",
+        "released": false
       }
     ],
     "straps": [
@@ -347,6 +353,12 @@
         "id": "1032",
         "img": "nui1032_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui1032.html"
+      },
+      {
+        "name": "Yukkuri Version",
+        "id": "9962",
+        "img": "nui9962_01.jpg",
+        "released": false
       }
     ],
     "straps": [
@@ -536,6 +548,12 @@
         "id": "1033",
         "img": "nui1033_01.jpg",
         "link": "https://www.gift-gift.jp/nui/nui1033.html"
+      },
+      {
+        "name": "Yukkuri Version",
+        "id": "9960",
+        "img": "nui9960_01.jpg",
+        "released": false
       }
     ],
     "dekas": [
@@ -688,7 +706,8 @@
         "name": "Hisouten Version",
         "id": 1184,
         "img": "nui1184_01.jpg",
-        "link": "https://www.gift-gift.jp/nui/nui1184.html"
+        "link": "https://www.gift-gift.jp/nui/nui1184.html",
+        "released": "false"
       }
     ],
     "straps": [
@@ -928,7 +947,15 @@
         "type": "mini"
       }
     ],
-    "mannakas": []
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "9967",
+        "img": "nui9967_01.jpg",
+        "type": "mannaka",
+        "released": "false"
+      }
+    ]
   },
   {
     "name": "Yakumo Ran",
@@ -958,7 +985,15 @@
         "type": "mini"
       }
     ],
-    "mannakas": []
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "9968",
+        "img": "nui9968_01.jpg",
+        "type": "mannaka",
+        "released": "false"
+      }
+    ]
   },
   {
     "name": "Yakumo Yukari",
@@ -994,7 +1029,15 @@
         "type": "mini"
       }
     ],
-    "mannakas": []
+    "mannakas": [
+      {
+        "name": "Version 1",
+        "id": "9969",
+        "img": "nui9969_01.jpg",
+        "type": "mannaka",
+        "released": "false"
+      }
+    ]
   },
   {
     "name": "Houraisan Kaguya",
@@ -1244,6 +1287,15 @@
         "link": "https://www.gift-gift.jp/nui/nui454.html"
       }
     ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9964",
+        "img": "nui9964_01.jpg",
+        "type": "mini",
+        "released": "false"
+      }
+    ],
     "mannakas": []
   },
   {
@@ -1338,6 +1390,15 @@
         "link": "https://www.gift-gift.jp/nui/nui644.html"
       }
     ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9966",
+        "img": "nui9966_01.jpg",
+        "type": "mini",
+        "released": "false"
+      }
+    ],
     "mannakas": []
   },
   {
@@ -1350,6 +1411,15 @@
         "img": "nui685_01.jpg",
         "release_dates": [2019, 2020, 2021, 2022],
         "link": "https://www.gift-gift.jp/nui/nui685.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9963",
+        "img": "nui9963_01.jpg",
+        "type": "mini",
+        "released": "false"
       }
     ],
     "mannakas": []
@@ -1442,6 +1512,15 @@
         "img": "nui837_01.jpg",
         "release_dates": [2021, 2022],
         "link": "https://www.gift-gift.jp/nui/nui837.html"
+      }
+    ],
+    "straps": [
+      {
+        "name": "Plush Strap",
+        "id": "9965",
+        "img": "nui9965_01.jpg",
+        "type": "mini",
+        "released": "false"
       }
     ],
     "mannakas": []
@@ -1670,6 +1749,14 @@
   {
     "name": "Koakuma",
     "thwiki": "https://en.touhouwiki.net/wiki/Koakuma",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9970",
+        "img": "nui9970_01.jpg",
+        "released": "false"
+      }
+    ],
     "straps": [
       {
         "name": "Plush Strap",
@@ -1737,6 +1824,14 @@
   {
     "name": "Daiyousei",
     "thwiki": "https://en.touhouwiki.net/wiki/Daiyousei",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9971",
+        "img": "nui9971_01.jpg",
+        "released": "false"
+      }
+    ],
     "straps": [
       {
         "name": "Plush Strap",
@@ -1763,6 +1858,42 @@
         "name": "Version 1",
         "id": "9984",
         "img": "nui9984_01.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Clownpiece",
+    "thwiki": "https://en.touhouwiki.net/wiki/Clownpiece",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9972",
+        "img": "nui9972_01.jpg",
+        "released": "false"
+      }
+    ]
+  },
+  {
+    "name": "Tsukasa Kudamaki",
+    "thwiki": "https://en.touhouwiki.net/wiki/Tsukasa_Kudamaki",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9973",
+        "img": "nui9973_01.jpg",
+        "released": "false"
+      }
+    ]
+  },
+  {
+    "name": "MeguMegumu Iizunamarumu",
+    "thwiki": "https://en.touhouwiki.net/wiki/Megumu_Iizunamaru",
+    "regular": [
+      {
+        "name": "Version 1",
+        "id": "9974",
+        "img": "nui9974_01.jpg",
+        "released": "false"
       }
     ]
   }
