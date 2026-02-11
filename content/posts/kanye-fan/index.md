@@ -3,7 +3,7 @@ title: "Kanye Fan"
 date: 2023-02-05T00:57:12-05:00
 tags: [drama, rant]
 summary: "Story of a Kanye Fan who feels the server betrayed him"
-draft: false
+draft: true
 ---
 
 ## Overview

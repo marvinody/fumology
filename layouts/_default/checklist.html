@@ -20,23 +20,26 @@
       <div class="char-collection">
         
         {{ range $reg := $char.regular }}
-
         {{ partial "char.html" $reg }}
         {{ end }}
+
         {{ range $reg := $char.straps }}
-
         {{ partial "char.html" $reg }}
         {{ end }}
+
         {{ range $reg := $char.dekas }}
-
         {{ partial "char.html" $reg }}
         {{ end }}
+
         {{ range $reg := $char.mannakas }}
-
         {{ partial "char.html" $reg }}
         {{ end }}
-        {{ range $reg := $char.puppets }}
 
+        {{ range $reg := $char.puppets }}
+        {{ partial "char.html" $reg }}
+        {{ end }}
+
+        {{ range $reg := $char.ichinana }}
         {{ partial "char.html" $reg }}
         {{ end }}
       </div>
