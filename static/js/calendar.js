@@ -362,27 +362,27 @@ const dummySales = [
       "end": "2026-09-30"
     }
   },
-  {
-    "name": "Vocaloid Sale",
-    "image": "/images/sales/G_5D0cHaIAA9YJa.jpg",
-    "desc": "Miku's group in plush form!",
-    "buying": {
-      "begin": "2026-01-30",
-      "end": "2026-03-16",
-      "timezone": "JST"
-    },
-    "shipping": {
-      "begin": "2026-07-15",
-      "end": "2026-07-31"
-    }
-  },
+  // {
+  //   "name": "Vocaloid Sale",
+  //   "image": "/images/sales/G_5D0cHaIAA9YJa.jpg",
+  //   "desc": "Miku's group in plush form!",
+  //   "buying": {
+  //     "begin": "2026-01-30",
+  //     "end": "2026-03-16",
+  //     "timezone": "JST"
+  //   },
+  //   "shipping": {
+  //     "begin": "2026-07-15",
+  //     "end": "2026-07-31"
+  //   }
+  // },
   {
     "name": "Chair Sale",
     "image": "/images/sales/G9Yv4sgagAAU4kX.jpg",
     "desc": "Limited time NOT MTO chair sale",
     "buying": {
       "begin": "2025-12-30",
-      "end": "2025-02-09",
+      "end": "2026-02-09",
       "timezone": "JST"
     },
     "shipping": {
