@@ -320,6 +320,160 @@ const dummySales = [
       end: "2025-07-30",
     },
   },
+  {
+    "name": "Fumo Sale 2026 #1a",
+    "image": "/images/sales/HAwrUC6aAAUrmvt.jpg",
+    "desc": "",
+    "buying": {
+      "begin": "2026-02-09",
+      "end": "2026-03-16",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2026-09-15",
+      "end": "2026-09-30"
+    }
+  },
+  {
+    "name": "Mini EoSD Gang",
+    "image": "/images/sales/HAwlOzKaAAMsjy4.jpg",
+    "desc": "17cm variants of Remilia, Flandre, and Sakuya",
+    "buying": {
+      "begin": "2026-02-09",
+      "end": "2026-03-16",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2026-09-15",
+      "end": "2026-09-30"
+    }
+  },
+  {
+    "name": "Reimu + Marisa with seat",
+    "image": "/images/sales/HAtGakFaAAAQXMG.jpg",
+    "desc": "Reimu and Marisa sets with colored chairs",
+    "buying": {
+      "begin": "2026-02-09",
+      "end": "2026-03-16",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2026-09-15",
+      "end": "2026-09-30"
+    }
+  },
+  {
+    "name": "Vocaloid Sale",
+    "image": "/images/sales/G_5D0cHaIAA9YJa.jpg",
+    "desc": "Miku's group in plush form!",
+    "buying": {
+      "begin": "2026-01-30",
+      "end": "2026-03-16",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2026-07-15",
+      "end": "2026-07-31"
+    }
+  },
+  {
+    "name": "Chair Sale",
+    "image": "/images/sales/G9Yv4sgagAAU4kX.jpg",
+    "desc": "Limited time NOT MTO chair sale",
+    "buying": {
+      "begin": "2025-12-30",
+      "end": "2025-02-09",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2026-03-15",
+      "end": "2026-03-31"
+    }
+  },
+  {
+    "name": "Clownpiece and gang MTO Sale ",
+    "image": "/images/sales/G3R6gp9aQAAJuN9.jpg",
+    "desc": "Yakumo Family 40cm\nDaiyousei\nReimu & Marisa alternate color\nKoakuma\nClownpiece!\nTsukasa\nMegumu",
+    "buying": {
+      "begin": "2025-10-20",
+      "end": "2025-11-25",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2026-06-15",
+      "end": "2026-06-30"
+    }
+  },
+  {
+    "name": "Bunny & Others Sale",
+    "image": "/images/sales/G1Bhdv8aEAECLFR.jpg",
+    "desc": "40cm Alice & Patchy\nReisen\nTewi\nYuyuko\nYukari\nMini Reimu & Marisa",
+    "buying": {
+      "begin": "2025-09-19",
+      "end": "2025-10-27",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2026-05-15",
+      "end": "2026-05-31"
+    }
+  },
+  {
+    "name": "Green Bow Cirno Sale",
+    "image": "/images/sales/Guz_Wo4XwAETRIO.jpg",
+    "desc": "Green bow Cirno",
+    "buying": {
+      "begin": "2025-07-04",
+      "end": "2025-09-01",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2026-03-15",
+      "end": "2026-03-31"
+    }
+  },
+  {
+    "name": "Mini Plush (not MTO) Sale",
+    "image": "/images/sales/GqZgYXyWwAAlsAe.jpg",
+    "desc": "Suika\nRenko\nMaribel\nall 3 are NOT MTO",
+    "buying": {
+      "begin": "2025-05-07",
+      "end": "2025-06-09",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2025-11-15",
+      "end": "2025-11-30"
+    }
+  },
+  {
+    "name": "Yuuma + Byak MTO Sale",
+    "image": "/images/sales/GqZO3W7XUAA1uWS.jpg",
+    "desc": "Lostword variants: Mokou, Sanae, Patchy\nByakuren\nYuuma\n40cm Sanae\n40cm Suwako\n40cm Cirno\n40cm Tanned Cirno\nSatori Yukkuri\nKoishi Yukkuri",
+    "buying": {
+      "begin": "2025-05-07",
+      "end": "2025-06-09",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2025-11-15",
+      "end": "2025-11-30"
+    }
+  },
+  {
+    "name": "MTO Resale",
+    "image": "/images/sales/GiDAQK9aoAAY-Ld.jpg",
+    "desc": "Kokoro\nRemilia (Kourindou)\nAlice\nTenshi",
+    "buying": {
+      "begin": "2025-01-28",
+      "end": "2025-03-03",
+      "timezone": "JST"
+    },
+    "shipping": {
+      "begin": "2025-09-15",
+      "end": "2025-09-30"
+    }
+  }
 ];
 
 const dummyEvents = [
