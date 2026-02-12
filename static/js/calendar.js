@@ -517,6 +517,7 @@ const findEventsOccuringBetween = (interval) => {
       const containsStart = interval.contains(eventStart);
       const containsEnd = interval.contains(eventEnd);
       const containsBoth = containsStart && containsEnd;
+      const containedWithinEvent = Interval.fromDateTimes(eventStart, eventEnd).overlaps(interval);
       const length = eventEnd.diff(eventStart, "days").days;
 
       return {
@@ -524,11 +525,17 @@ const findEventsOccuringBetween = (interval) => {
         containsStart,
         containsEnd,
         containsBoth,
+        containedWithinEvent,
         length,
       };
     })
     .filter((event) => {
-      return event.containsStart || event.containsEnd || event.containsBoth;
+      return (
+        event.containsStart ||
+        event.containsEnd ||
+        event.containsBoth ||
+        event.containedWithinEvent
+      );
     });
 };
 
@@ -665,10 +672,10 @@ const renderCalendar = (range) => {
           width: width,
         });
 
-        if (!event.containsStart) {
+        if (!event.containsStart && event.containedWithinEvent) {
           eventDiv.addClass("no-start");
         }
-        if (!event.containsEnd) {
+        if (!event.containsEnd && event.containedWithinEvent) {
           eventDiv.addClass("no-end");
         }
 
