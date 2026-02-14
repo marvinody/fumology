@@ -42,6 +42,32 @@ const slugify = (text) => {
   return text.toLowerCase().replace(/ /g, "-").replace(/#/g, "");
 };
 
+const parseDescLines = (desc) => {
+  if (!desc) {
+    return [];
+  }
+
+  return desc
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean);
+};
+
+const renderDesc = (desc) => {
+  const lines = parseDescLines(desc);
+
+  if (lines.length <= 1) {
+    return $("<p>").text(lines[0] || "");
+  }
+
+  const list = $("<ul>").addClass("event-desc-list");
+  lines.forEach((line) => {
+    list.append($("<li>").text(line));
+  });
+
+  return list;
+};
+
 const findEventsOccuringBetween = (interval) => {
   return dummyEvents
     .map((event) => {
@@ -227,7 +253,7 @@ const renderCalendar = (range) => {
       .addClass("modal")
       .attr("id", "sale-" + idx);
     const eventTitle = $("<h2>").text(event.name);
-    const eventDesc = $("<p>").text(event.desc);
+    const eventDesc = renderDesc(event.desc);
     const eventImage = $("<img>").attr("src", event.image);
     const dateDiv = $("<div>");
 
