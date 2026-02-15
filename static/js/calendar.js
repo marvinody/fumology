@@ -354,7 +354,7 @@ const renderHeaderUI = () => {
     .click(() => {
       const newRange = Interval.fromDateTimes(
         DateTime.fromISO(firstEvent.start),
-        DateTime.fromISO(firstEvent.start).plus({ months: 11 })
+        DateTime.fromISO(firstEvent.start).plus({ months: 5 })
       );
       currentRange = newRange;
       renderCalendar(newRange);
@@ -365,7 +365,7 @@ const renderHeaderUI = () => {
     .text(">|")
     .click(() => {
       const newRange = Interval.fromDateTimes(
-        DateTime.fromISO(lastEvent.start).minus({ months: 11 }),
+        DateTime.fromISO(lastEvent.start).minus({ months: 5 }),
         DateTime.fromISO(lastEvent.start)
       );
       currentRange = newRange;
