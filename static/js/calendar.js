@@ -9,7 +9,7 @@ const pickColorClass = (idx) => {
 
 const dummySales = window.dummySales || [];
 
-const dummyEvents = [
+let dummyEvents = [
   ...dummySales.flatMap((sale, idx) => {
     const events = [];
     if (sale?.buying) {
@@ -20,6 +20,7 @@ const dummyEvents = [
         image: sale.image,
         desc: sale.desc,
         type: "sale",
+        show: true,
         idx,
       });
     }
@@ -31,6 +32,7 @@ const dummyEvents = [
         image: sale.image,
         desc: sale.desc,
         type: "shipping",
+        show: true,
         idx,
       });
     }
@@ -119,7 +121,7 @@ const determineMaxDayCount = (start, end) => {
       maxDayCount = Math.max(maxDayCount, daysInMonth + dayOfWeek);
     });
 
-    return maxDayCount;
+  return maxDayCount;
 }
 
 const renderCalendar = (range) => {
@@ -194,7 +196,7 @@ const renderCalendar = (range) => {
         monthDayContainer.append($("<div>").addClass("day").addClass("empty"));
       }
 
-      const events = findEventsOccuringBetween(interval);
+      const events = findEventsOccuringBetween(interval).filter(event => event.show);
 
       events.forEach((event, idx) => {
         const eventDiv = $("<div>").addClass("event").addClass(event.type);
@@ -218,12 +220,10 @@ const renderCalendar = (range) => {
         const eventInterval = Interval.fromDateTimes(clippedStart, clippedEnd);
 
         const day = clippedStart.day;
-        const leftPos = `calc(${ 
-          ((emptyDayDivsStart + day - 1) / DAY_DIV_COUNT) * 100
-        }% + 2px)`;
-        const width = `calc(${ 
-          ((eventInterval.count("days") + 1) / DAY_DIV_COUNT) * 100
-        }% - 4px)`;
+        const leftPos = `calc(${((emptyDayDivsStart + day - 1) / DAY_DIV_COUNT) * 100
+          }% + 2px)`;
+        const width = `calc(${((eventInterval.count("days") + 1) / DAY_DIV_COUNT) * 100
+          }% - 4px)`;
 
         eventDiv.css({
           left: leftPos,
@@ -268,25 +268,25 @@ const renderCalendar = (range) => {
     dateDiv.append(buyingDateText);
 
     const now = DateTime.local();
-    if(event?.shipping) {
+    if (event?.shipping) {
       const shippingEndDate = DateTime.fromISO(event.shipping.begin);
 
       const diff = shippingEndDate.diff(now, "days");
-    
+
       const relativeAway = shippingEndDate.toRelative();
-  
+
       const shipText =
         diff.days < 0
           ? `Invoices began on: ${shippingEndDate.toLocaleString(DateTime.DATE_FULL)} (Approximately ${relativeAway})`
           : `Invoices begin on: ${shippingEndDate.toLocaleString(DateTime.DATE_FULL)} (Approximately ${relativeAway})`;
-  
+
       const shippingDateText = $("<p>").text(shipText);
-  
+
       dateDiv.append(shippingDateText);
     } else {
       dateDiv.append($("<p>").text("Shipping: TBA"));
     }
- 
+
 
     eventDiv.append(eventTitle);
     eventDiv.append(eventDesc);
@@ -383,23 +383,97 @@ const renderHeaderUI = () => {
   headerDiv.append(titleDiv);
 };
 
+const pullUniqueCharacters = () => {
+  const chars = new Set();
+  dummySales.forEach((sale) => {
+    sale.merch?.forEach((item) => {
+      item.chars?.forEach((char) => {
+        if (char?.name) {
+          chars.add(char.name);
+        } else if (typeof char === "string") {
+          chars.add(char);
+        }
+      });
+    });
+  });
+  return Array.from(chars).sort();
+};
+
+const pullUniquePlushTypes = () => {
+  const types = new Set();
+  dummySales.forEach((sale) => {
+    sale.merch?.forEach((item) => {
+      if (item.type) {
+        types.add(item.type);
+      }
+    });
+  });
+  return Array.from(types).sort();
+};
+console.log("Unique characters:", pullUniqueCharacters());
+console.log("Unique plush types:", pullUniquePlushTypes());
+
 const FILTER_CONFIG = [
-  {
-    id: "characters",
-    label: "Characters",
-    options: ["Reimu", "Marisa", "Youmu"],
-  },
   {
     id: "plush-types",
     label: "Plush Types",
-    options: ["20cm", "40cm", "deka", "17cm"],
+    options: pullUniquePlushTypes(),
   },
   {
     id: "event-type",
     label: "Event Type",
     options: ["MTO", "Buying", "Shipping"],
   },
+  {
+    id: "characters",
+    label: "Characters",
+    options: pullUniqueCharacters(),
+  },
 ];
+
+const matchesCharacterFilter = (sale, activeFilters) => {
+  const characterFilters = activeFilters["characters"];
+  if (characterFilters.length === 0) {
+    return true;
+  }
+  const merchChars = sale.merch.flatMap((item) => item.chars || []);
+  return merchChars.some((char) => characterFilters.includes(char?.name || char));
+};
+
+const matchesPlushTypeFilter = (sale, activeFilters) => {
+  const plushTypeFilters = activeFilters["plush-types"];
+  if (plushTypeFilters.length === 0) {
+    return true;
+  }
+  const merchTypes = sale.merch.map((item) => item.type);
+  return merchTypes.some((type) => plushTypeFilters.includes(type));
+};
+
+const matchesEventTypeFilter = (event, activeFilters) => {
+  const eventTypeFilters = activeFilters["event-type"];
+  if (eventTypeFilters.length === 0) {
+    return true;
+  }
+  const sale = dummySales[event.idx];
+  const requiresMTO = eventTypeFilters.includes("MTO");
+  const hasMTO = sale.merch.some((item) => item.MTO);
+  if (event.name.includes("with seat")) {
+    console.log({
+      eventName: event.name,
+      requiresMTO,
+      hasMTO,
+    })
+  }
+
+  if (eventTypeFilters.includes("Buying") && event.type === "sale") {
+    return requiresMTO ? hasMTO : true;
+  } else if (eventTypeFilters.includes("Shipping") && event.type === "shipping") {
+    return requiresMTO ? hasMTO : true;
+  } else if (requiresMTO) {
+    return hasMTO;
+  }
+  return false;
+};
 
 const applyFilters = () => {
   const activeFilters = {};
@@ -415,6 +489,31 @@ const applyFilters = () => {
 
   // TODO: Apply activeFilters to calendar items
   console.log("Active filters:", activeFilters);
+  dummyEvents = dummyEvents.map((event) => {
+    const sale = dummySales[event.idx];
+    if (!sale) {
+      return { ...event, show: false };
+    }
+
+    const matchesPlushType = matchesPlushTypeFilter(sale, activeFilters);
+    const matchesCharacter = matchesCharacterFilter(sale, activeFilters);
+    const matchesEventType = matchesEventTypeFilter(event, activeFilters);
+
+    console.log({
+      event: event.name,
+      matchesPlushType,
+      matchesCharacter,
+      matchesEventType,
+    })
+
+    return {
+      ...event,
+      show: matchesPlushType && matchesCharacter && matchesEventType
+    }
+  });
+  console.log("After filtering:", dummyEvents);
+
+  renderCalendar(currentRange);
 };
 
 const renderFilters = () => {
