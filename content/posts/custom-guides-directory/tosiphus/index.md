@@ -9,6 +9,18 @@ tags: [diy, custom]
 - [@tosiphus (Instagram)](https://www.instagram.com/tosiphus/)
 - @tosiphus (Discord)
 
+## Gift Patterns
+
+These templates are designed to have no specific clothes or hair but have the landmarks to help with design by highlighting the connections.
+
+{{< figure src="/images/pdf_icon.jpg" link="./tosiphus_gift_pattern.pdf" title="Tosiphus Fumo Gift Pattern">}}
+
+{{< figure src="./gift_pattern_1.png" >}}
+{{< figure src="./gift_pattern_2.png" >}}
+{{< figure src="./gift_pattern_3.png" >}}
+{{< figure src="./gift_pattern_4.png" >}}
+
+
 ## Suku Patterns
 Make sure you're printing the PDFs on A4 paper or 8.5x11"
 
