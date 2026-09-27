@@ -34,6 +34,7 @@ A collection of plush patterns. Most are for Fumos, but there are some for Sukus
   - [Extensive Fumo Pattern](/posts/custom-guides-directory/goop/#fumo-pattern)
 - [Toshiphus](/posts/custom-guides-directory/tosiphus)
   - [Sukusuku Pattern](/posts/custom-guides-directory/tosiphus/#suku-patterns)
+  - [Fumo Pattern](/posts/custom-guides-directory/tosiphus/#gift-patterns)
 - [sailinyumemi](/posts/custom-guides-directory/chiyurisoup) (Chiyuri Soup)
   - [Inu Sakuya Fumo Pattern](/posts/custom-guides-directory/chiyurisoup/#inu-sakuya-fumo-pattern)
 - [levobertus](/posts/custom-guides-directory/levobertus/)
@@ -45,6 +46,7 @@ Helpful guides to put together the patterns in the section above.
 
 - [Sarto](/posts/custom-guides-directory/sarto/)
   - [Torso Sewing Guide](/posts/custom-guides-directory/sarto/#torso-sewing-guide)
+  - [Hat Making Guide](/posts/custom-guides-directory/sarto/#hat-making-guide)
 - [Albinokoi](/posts/custom-guides-directory/albinokoi)
   - [Hair Guide](/posts/custom-guides-directory/albinokoi/#hair-guide)
 - [Gasto_projecteur](/posts/custom-guides-directory/goop) (Goop)

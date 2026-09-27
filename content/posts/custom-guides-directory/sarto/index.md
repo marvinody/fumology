@@ -36,6 +36,28 @@ For "basic bangs" I just follow this process. Start out with a rectangle and the
 ## Torso Sewing Guide
 {{< figure src="./torso-sewing-guide.png" title="Do all the red first and then the green. Be sure to align the green correctly and don't forget to squeeze the arms between the torsos.">}}
 
+## Hat Making Guide
+
+A hat is made up from 4 or 6 triangle-ish shaped patterns with rounded corners sewn together. This comes from sphere patterns: if you try to make a sphere, you will see that the pattern is very similar (except it extends below). We're only trying to make half a sphere here.
+
+If you notice, one half of the triangle is smaller than the other. This is because fumo heads are not perfect circles but are more oval-shaped, so one side has to come up shorter.
+
+A full brim is pretty easy, you just:
+1. Measure the size of the head of your fumo, at the point you want the hat to rest
+2. Trace the inner oval (i dont really have a technique for proportions I just kinda wing it)
+3. Trace the second oval depending on how long you want the brim to be (in this case it was ~4cm)
+
+Remember that the length of the inner oval must be equal to the 4x the base of the triangle-shaped pattern (or 6x, if you use 6 pieces).
+
+As an extra tip, if the fabric I use to make the hat is thin or elastic, I like using fusible interface to glue it to cotton or something. It makes it more stiff and more hat-like. But that's just a preference.
+
+Reference Images:
+{{< figure src="./hat_1.jpg" title="One 4-piece pattern on top of a 5mm square grid">}}
+{{< figure src="./hat_2.webp" title="Brim pattern">}}
+{{< figure src="./hat_3.jpg" title="Final result, outer">}}
+{{< figure src="./hat_4.jpg" title="Final result, inner">}}
+
+
 ## Fumo Face Embroidery Files
 This [Google Drive link](https://drive.google.com/drive/folders/1exl7wEMbJw8HLrW5dyUkiNPQAVIBIgc6) contains a decent selection of fumo faces to choose from if you don't have a good embroidery software to make your own faces with. They are far from perfect, and I do find myself tweaking them a little every once in a while, they're a starter point if you're new to embroidery software or don't have any.
 
