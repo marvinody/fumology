@@ -51,7 +51,7 @@ Remember that the length of the inner oval must be equal to the 4x the base of t
 
 As an extra tip, if the fabric I use to make the hat is thin or elastic, I like using fusible interface to glue it to cotton or something. It makes it more stiff and more hat-like. But that's just a preference.
 
-Refernce Images:
+Reference Images:
 {{< figure src="./hat_1.jpg" title="One 4-piece pattern on top of a 5mm square grid">}}
 {{< figure src="./hat_2.webp" title="Brim pattern">}}
 {{< figure src="./hat_3.jpg" title="Final result, outer">}}
